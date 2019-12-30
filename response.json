@@ -1,0 +1,949 @@
+{
+  "paging": {
+    "is_end": false,
+    "next": "https://api.zhihu.com/search_v3?advert_count=0\u0026limit=10\u0026offset=10\u0026q=%E9%9D%A2%E8%AF%95\u0026search_hash_id=e493b6b29fa7d449b1ccc3bbddeec789\u0026t=general\u0026vertical_info=1%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1"
+  },
+  "data": [
+    {
+      "type": "wiki_box",
+      "highlight": {
+        "description": "\u003cem\u003e面试\u003c/em\u003e（Interview），是测查和评价人员能力素质的一种考试活动。\u003cem\u003e面试\u003c/em\u003e是一种经过组织者精心设计，在特定场景下，以考官对考生的面对面交谈与观察为主要手段，由表及里测评考生的知识、能力、经验等有关素质的一种考试活动。",
+        "title": "\u003cem\u003e面试\u003c/em\u003e"
+      },
+      "object": {
+        "id": "19552079",
+        "name": "\u003cem\u003e面试\u003c/em\u003e",
+        "url": "https://api.zhihu.com/topics/19552079",
+        "type": "wiki_box",
+        "excerpt": "\u003cem\u003e面试\u003c/em\u003e（Interview），是测查和评价人员能力素质的一种考试活动。\u003cem\u003e面试\u003c/em\u003e是一种经过组织者精心设计，在特定场景下，以考官对考生的面对面交谈与观察为主要手段，由表及里测评考生的知识、能力、经验等有关素质的一种考试活动。",
+        "introduction": "      \u003cem\u003e面试\u003c/em\u003e（Interview），是测查和评价人员能力素质的一种考试活动。\u003cem\u003e面试\u003c/em\u003e是一种经过组织者精心设计，在特定场景下，以考官对考生的面对面交谈与观察为主要手段，由表及里测评考生的知识、能力、经验等有关素质的一种考试活动。",
+        "description": "",
+        "avatar_url": "https://pic1.zhimg.com/80/v2-096b5e9a6beb5b87e65868704865543e_qhd.jpg",
+        "is_following": false,
+        "questions_count": 29509,
+        "followers_count": 598954,
+        "follower_count": 598954,
+        "top_answer_count": 1000,
+        "score": 0,
+        "aliases": [
+          "interview"
+        ],
+        "has_meta": true,
+        "meta": {
+          "id": 1023620552866578432,
+          "type": "metapedia",
+          "category": "n_wiki",
+          "description": "",
+          "image_url": "https://pic1.zhimg.com/80/a7b1cfd75_r.jpg",
+          "is_following": false,
+          "follower_count": 598954,
+          "question_count": 29509,
+          "discussion_count": 999,
+          "description1": "      面试（Interview），是测查和评价人员能力素质的一种考试活动。面试是一种经过组织者精心设计，在特定场景下，以考官对考生的面对面交谈与观察为主要手段，由表及里测评考生的知识、能力、经验等有关素质的一种考试活动。",
+          "description2": "",
+          "subtitle": "",
+          "title": "面试",
+          "tags": [],
+          "avatar_url": "https://pic1.zhimg.com/80/v2-096b5e9a6beb5b87e65868704865543e_qhd.jpg",
+          "template": {
+            "meta_template_type": 1,
+            "avatar_type": 1
+          },
+          "wiki_description": [],
+          "scores": []
+        },
+        "attached_info_bytes": "OnkKC3BsYWNlaG9sZGVyEiBlNDkzYjZiMjlmYTdkNDQ5YjFjY2MzYmJkZGVlYzc4ORgCIgM2MjIqCDE5NTUyMDc5SgbpnaLor5VQAFgBYAGYAQCgAQCoAQCwAQrCAQdOb3RoaW5nyAEA0AGtveLoBOgBqsckgAIAuAIA",
+        "wiki_type": "n_wiki",
+        "discussion_count": 999,
+        "has_index_section": false,
+        "essence_feed_count": 0
+      },
+      "index": 0
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "这两样东西在\u003cem\u003e面试\u003c/em\u003e前、\u003cem\u003e面试\u003c/em\u003e中、\u003cem\u003e面试\u003c/em\u003e后都会有体现。 \u003cem\u003e面试\u003c/em\u003e前：一份好的\u003cem\u003e面试\u003c/em\u003e作品是杀手锏 人们都说不打无准备的仗，\u003cem\u003e面试\u003c/em\u003e这种大仗更要好好准备。 我见过很多\u003cem\u003e面试\u003c/em\u003e者，\u003cem\u003e面试\u003c/em\u003e时发现对我们公司一无所知",
+        "title": "\u003cem\u003e面试\u003c/em\u003e应答有哪些话术和技巧？"
+      },
+      "object": {
+        "id": "446545012",
+        "type": "answer",
+        "excerpt": "这两样东西在\u003cem\u003e面试\u003c/em\u003e前、\u003cem\u003e面试\u003c/em\u003e中、\u003cem\u003e面试\u003c/em\u003e后都会有体现。 \u003cem\u003e面试\u003c/em\u003e前：一份好的\u003cem\u003e面试\u003c/em\u003e作品是杀手锏 人们都说不打无准备的仗，\u003cem\u003e面试\u003c/em\u003e这种大仗更要好好准备。 我见过很多\u003cem\u003e面试\u003c/em\u003e者，\u003cem\u003e面试\u003c/em\u003e时发现对我们公司一无所知",
+        "url": "https://api.zhihu.com/answers/446545012",
+        "voteup_count": 29208,
+        "comment_count": 375,
+        "created_time": 1531988201,
+        "updated_time": 1576056444,
+        "content": "\u003cp\u003e做HR的这些年，可以说是“面人无数”了。身边经常有朋友过来找我问面经，问的人多了我就想干脆写下来，省了每次总是重复一样的话。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e首先面经这个说法其实是很可笑的，人们总是以为掌握了面经就可以在面试中滴水不漏，可以见招拆招逢山开路遇水搭桥。岂不知这些所谓的面经很多都是HR写的，熟读面经也成为了HR在职场中的必修课。所谓魔高一尺道高一丈，在HR面前耍这些小聪明小套路，就显得非常班门弄斧了。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-012bead9400cb9d294588c1f3d85cbb2_b.jpg\" data-rawwidth=\"207\" data-rawheight=\"207\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-ec1cf9413f381df167dafc9fa38281e7_b.jpg\" class=\"content_image\" width=\"207\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;207\u0026#39; height=\u0026#39;207\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"207\" data-rawheight=\"207\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-ec1cf9413f381df167dafc9fa38281e7_b.jpg\" class=\"content_image lazy\" width=\"207\" data-actualsrc=\"https://pic3.zhimg.com/v2-012bead9400cb9d294588c1f3d85cbb2_b.jpg\"/\u003e\u003c/figure\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e而如果说在面试中有什么以不变应万变的终极核心纲领，那恐怕就是以下这句了：\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic1.zhimg.com/v2-a0d3c1a4d82141581b75382cf130122c_b.jpg\" data-rawwidth=\"620\" data-rawheight=\"62\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"620\" data-original=\"https://pic1.zhimg.com/v2-a0d3c1a4d82141581b75382cf130122c_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;620\u0026#39; height=\u0026#39;62\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"620\" data-rawheight=\"62\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"620\" data-original=\"https://pic1.zhimg.com/v2-a0d3c1a4d82141581b75382cf130122c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-a0d3c1a4d82141581b75382cf130122c_b.jpg\"/\u003e\u003c/figure\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e这句话看似简单，但实施起来很复杂。接下来我们详细的说。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e证明你适合这个岗位，无非就是证明自己有足够的专业度和职业素养。专业度证明你能否完成业绩，职业素养证明你能否与别人沟通合作。这两样东西在面试前、面试中、面试后都会有体现。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003ch2\u003e面试前：一份好的面试作品是杀手锏\u003c/h2\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e人们都说不打无准备的仗，面试这种大仗更要好好准备。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e我见过很多面试者，面试时发现对我们公司一无所知，连主要经营什么业务都不了解。这样的人，我们直接pass没商量。找工作面试就像是追女孩子谈恋爱，你都不了解她，怎么能说服她和你在一起呢？\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e所以想要拿offer，那么在面试之前要详细研究公司和目标职位，准备一份面试作品。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e可以从以下几个方面入手：\u003c/p\u003e\u003cp\u003ea.目标岗位在过去都做了什么事情，如何做的？\u003c/p\u003e\u003cp\u003eb.竞品都有哪些，都做了什么事情？\u003c/p\u003e\u003cp\u003ec.目前岗位存在什么问题要解决？\u003c/p\u003e\u003cp\u003ed.如果自己入职，会做哪些事情？\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e大家不要乍一看被工作量吓到，其实要是做起来的话，还是非常简单的。只要你仔细研究了公司，那么上述的问题你自然会想到，把它落实下来就好了。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e当然，这份面试作品只是我们把它称之为作品，在面试的时候你不需要把它拿出来，摆在桌面上，你只要做到心中有数，在应答面试官的问题时，能把这些东西展现出来就好了。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e划重点：证明自己已经充分了解公司和岗位，并且自身能力适合该岗位\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic2.zhimg.com/v2-c2723f0a7690b491ced973d244fe6c41_b.jpg\" data-rawwidth=\"203\" data-rawheight=\"217\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-9fd7cc4ece9e430e76f5054aa57d59be_b.jpg\" class=\"content_image\" width=\"203\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;203\u0026#39; height=\u0026#39;217\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"203\" data-rawheight=\"217\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-9fd7cc4ece9e430e76f5054aa57d59be_b.jpg\" class=\"content_image lazy\" width=\"203\" data-actualsrc=\"https://pic2.zhimg.com/v2-c2723f0a7690b491ced973d244fe6c41_b.jpg\"/\u003e\u003c/figure\u003e\u003cp\u003e此外，准备一份好的简历应该就不用我多说了。我就再多嘱咐两句：\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e1、工作业绩一定要量化，尽量多用数字来表述成绩，比如销售额多少、阅读量多少、转化率多少、KPI排部门第几；\u003c/p\u003e\u003cp\u003e2、把“自我介绍”这一栏目提到简历前面，简明扼要地写一下自己在相关领域有几年工作经验，取得过什么显著成绩，擅长哪一部分；\u003c/p\u003e\u003cp\u003e3、选一个好的简历模板，看起来清晰整洁的，给HR的第一印象非常重要。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003ch2\u003e面试中：必考题型一定要掌握好\u003c/h2\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e面试时有几个老生常谈的必考题，我们掌握好技巧，把他们变成送分题。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e1、请做一下自我介绍。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e合理分配自我介绍的时间：通常自我介绍可以安排在 1-3分钟之内。对于有工作经验的应聘者，首先要陈述个人的工作经验，再谈自己的教育背景及学历，最后总结自己对于求职上的想法。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e时间紧任务重啊亲人们！就不要介绍自己的姓名、年龄、兴趣爱好、单身不单身了，不是相亲啊！\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003e划重点：证明自己过往经历适合该岗位\u003c/i\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e2、 你为什么来应聘这个职位?\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e等同于追姑娘时姑娘问的“你喜欢我什么”，千万不要说“我也不知道，但就是喜欢”。一定要说喜欢这个姑娘的什么什么性格，优点全列出来！\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e在此之前，对于应聘公司背景及职位相关信息的了解，就会起到很大的用处。一定要根据自身条件，重点强调和描述匹配该职位的自身已经具备的工作经历和能力，告诉公司，快选我选我选我。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e还有，绝大多数的面试官在对已有工作经验的求职者提出这个问题的时候，都有“你为什么要离开现任公司”的涵义，有些面试官也会直接提出这个问题。这时候回答尽量要客观，比如职位已经到瓶颈，公司前途渺茫之类的。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003e划重点：最直观的问题，证明自己的工作能力适合这个岗位\u003c/i\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e3、 你的优点是什么？\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e千万不要套用千篇一律的答题策略，还是需要根据职位特点有针对性地进行回答。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e为了避免在面试时不知道该表扬自己哪一个优点，这个问题需要在面试前做好准备工作。\u003c/p\u003e\u003cp\u003e\u003cbr/\u003e\u003cbr/\u003e(1) 列举出自己3-5个优点。\u003c/p\u003e\u003cp\u003e(2) 列举目标岗位所做事情需要的优点。\u003c/p\u003e\u003cp\u003e(3) 选出1-2个前面二者皆有的优点，在面试时详细阐明。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003e划重点：证明自己优点适宜处理工作中的问题，天生就适合这份工作\u003c/i\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e4、 你的缺点是什么？\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e缺点肯定不能是目标岗位需要的关键能力，堪比自杀。同时也不能虚伪地说自己工作中太追求完美、太拼命工作以致于不能兼顾家庭等，这种看似缺点的优点太虚伪，HR已经很鄙视了，不要再这么套路了。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e可以说一个自己的缺点，并且自己如何克服了它，最后取得了什么成果。这样既真诚，又没有给自己抹黑，还显示出了自己认真负责善于解决问题的工作态度。\u003c/p\u003e\u003cp\u003e划重点：既反套路地真诚告诉HR自己的缺点，又不损形象。\u003c/p\u003e\u003cp\u003e详细可以参考我下面这个回答：\u003c/p\u003e\u003ca data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://www.zhihu.com/question/22357547/answer/907045155\" data-image=\"https://pic4.zhimg.com/v2-aaa0c6ff75b5f637b6a0c0441692e56b_ipico.jpg\" data-image-width=\"201\" data-image-height=\"217\" class=\"internal\"\u003e面试官问你的缺点是什么，应该如何回答？\u003c/a\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e5、 你对薪资有什么要求?\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e每家公司的薪资结构都是不一样的，可以有礼貌的先问下HR公司的薪资架构、福利是怎样的，然后再问下对应聘岗位的薪资预算范围。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e如果你觉得谈的很好，有把握，可以提一个靠近预算高值的期望；如果面试感觉一般，就取个中间数就可以了。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003e划重点：证明对薪资的预期适合该岗位\u003c/i\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e6、 你未来有什么职业规划？\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e在回答这个问题的时候，只需要回答自己想要往什么方向发展就好。以技术岗位为例，“我喜欢做技术工作，近几年要踏实的做好技术，如果我的工作表现和绩效比较好，相信公司会对我的发展有所考虑的”。这样的回答大家都会很满意，觉得你很踏实上进。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e而如果你偏想要说自己几年要做到什么职务，基本就死定了。想一下，如果技术总监面试你，问你有什么规划，你说你将来想做技术总监，是不是让人觉得你很单(bai)纯(chi)。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003e划重点：这是道送分题，说明自己很上进即可\u003c/i\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e7、 你还有什么问题要问的吗? \u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e面试结束前，出于礼貌一般都会问到这个问题，什么都不问显得不够认真，太敷衍，但问什么问题，是门学问。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e这个时候就不要问各种公司福利那种没有含金量反而显得你很小家子气的问题了，面试前做的准备可以用上了，问问你想知道的关于这个公司和岗位的问题。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e要注意的是，问完问题以后一定要认真听面试官的回答啊！！！我有很多很多次在回答候选人的问题的时候，发现人家根本不关心我说了什么！！！只是为了问个问题，而问了个问题！！！这样的人，原来我打算给发offer现在也不发了。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003e划重点：证明自己很专业，对这个岗位很了解\u003c/i\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003ch2\u003e面试后: 有始有终，站好最后一班岗\u003c/h2\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e千万不要认为，面试结束之后就是最后终了。只要还没收到offer，一切都是未知数。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e在面试沟通结束的时候，一定要记得向面试官表达感谢，同时表达自己通过跟他的沟通，对这个职位更加了解，也更加感兴趣，相信自己能胜任。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e在回家等通知时，还可以给联系你的HR发一条短信，首先是表示对面试机会的感谢，其次是问一问公司对自己感觉怎么样。这样公司也会觉得你很有诚意。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e向面试官展示你对这份工作的诚意，显示你很有兴趣。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003ci\u003e划重点：向HR展示你对这份工作的诚意，显示你很有兴趣。\u003c/i\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e总结一下，\u003cb\u003e以上这些每一步都是在向公司证明你适合这个岗位\u003c/b\u003e，在面试中遇到其他的问题和情况也是这样处理，\u003cb\u003e可以学着站在公司的角度去想问题\u003c/b\u003e，思考他们究竟想找一个什么的候选人，把这件事情想明白就什么都可以从容面对了。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e最后皮一下很开心，\u003c/p\u003e\u003cp\u003e如果大家能给这个回答一个赞，那么下次面试的通过率就会提高80%！\u003c/p\u003e\u003cp\u003e相信我，很灵的，已经找大师开过光了\u003c/p\u003e\u003chr/\u003e\u003cp\u003e链上我的更多回答：\u003c/p\u003e\u003ca data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://www.zhihu.com/question/23150301/answer/410066018\" data-image=\"https://pic2.zhimg.com/v2-648c3ffb9062cc855093de0b3f92cb31_180x120.jpg\" data-image-width=\"229\" data-image-height=\"183\" class=\"internal\"\u003e一份优秀的前端开发工程师简历是怎么样的？\u003c/a\u003e\u003cp\u003e\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 3,
+          "thumbnails": [
+            {
+              "data_url": "",
+              "url": "https://pic4.zhimg.com/80/v2-18dab89343762cf8ada33d48720ebcb7_bh.jpg",
+              "type": "image"
+            },
+            {
+              "data_url": "",
+              "url": "https://pic1.zhimg.com/80/v2-a0d3c1a4d82141581b75382cf130122c_bh.jpg",
+              "type": "image"
+            },
+            {
+              "data_url": "",
+              "url": "https://pic1.zhimg.com/80/v2-128917a706a963aef908bf187b3f83ca_bh.jpg",
+              "type": "image"
+            }
+          ],
+          "type": "thumbnail_info"
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "question": {
+          "id": "35953016",
+          "type": "question",
+          "name": "\u003cem\u003e面试\u003c/em\u003e应答有哪些话术和技巧？",
+          "url": "https://api.zhihu.com/questions/35953016"
+        },
+        "author": {
+          "id": "4f8f3bc2d4a68c10dbccefef7f9e2f46",
+          "url_token": "getready",
+          "name": "Annie姐",
+          "headline": "二线大厂HRD，国家一级人力资源师。",
+          "gender": 0,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/4f8f3bc2d4a68c10dbccefef7f9e2f46",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-2c840ae35f6a298cc4f19577e713164d_s.jpg",
+          "badge": []
+        },
+        "flag": null,
+        "attached_info_bytes": "Oo0BCgtwbGFjZWhvbGRlchIgZTQ5M2I2YjI5ZmE3ZDQ0OWIxY2NjM2JiZGRlZWM3ODkYBCIJMTExMjU4MjQyKgk0NDY1NDUwMTIyBzY1ODgxNDU6CDM1OTUzMDE2SgbpnaLor5VQAFgBYAGYAQCgAQGoAQCwAQG4AQDQAemRwdoF2AGY5AHgAfcCgAIAuAIA"
+      },
+      "index": 1
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "正常情况下，HR会和你共同决定\u003cem\u003e面试\u003c/em\u003e时间。 回正题，\u003cem\u003e面试\u003c/em\u003e的准备在我看来，分三方面，知己知彼，百战不殆。 了解自己； 了解\u003cem\u003e应聘\u003c/em\u003e公司； 了解\u003cem\u003e应聘\u003c/em\u003e岗位 了解自己 很多人认为",
+        "title": "\u003cem\u003e面试\u003c/em\u003e前都需要做些什么准备？"
+      },
+      "object": {
+        "id": "153871356",
+        "type": "answer",
+        "excerpt": "正常情况下，HR会和你共同决定\u003cem\u003e面试\u003c/em\u003e时间。 回正题，\u003cem\u003e面试\u003c/em\u003e的准备在我看来，分三方面，知己知彼，百战不殆。 了解自己； 了解\u003cem\u003e应聘\u003c/em\u003e公司； 了解\u003cem\u003e应聘\u003c/em\u003e岗位 了解自己 很多人认为",
+        "url": "https://api.zhihu.com/answers/153871356",
+        "voteup_count": 10640,
+        "comment_count": 103,
+        "created_time": 1490603533,
+        "updated_time": 1574780517,
+        "content": "\u003cp\u003e不能这样下去了！收藏3倍于点赞，干货有时候不如锦鲤啊……\u003c/p\u003e\u003cp\u003e在正式回答问题前，先啰嗦一句：上午电话通知下午面试的，建议不去。多半不是靠谱岗位。正常情况下，HR会和你共同决定面试时间。\u003c/p\u003e\u003cp\u003e回正题，面试的准备在我看来，分三方面，知己知彼，百战不殆。\u003c/p\u003e\u003col\u003e\u003cli\u003e了解自己；\u003c/li\u003e\u003cli\u003e了解应聘公司；\u003c/li\u003e\u003cli\u003e了解应聘岗位\u003c/li\u003e\u003c/ol\u003e\u003ch2\u003e\u003cb\u003e了解自己\u003c/b\u003e\u003c/h2\u003e\u003cp\u003e很多人认为，这一点多余。我还不了解我自己？\u003c/p\u003e\u003cp\u003e实际上，我们很多人都不了解自己，尤其是简历里的自己。 \u003c/p\u003e\u003cp\u003e我遇到过简历写错的求职者，简历上写的内容都忘掉的小伙伴，还有明明自己经历过，却讲不清楚来龙去脉的小伙伴。\u003c/p\u003e\u003cp\u003e而且并不少见。\u003c/p\u003e\u003cp\u003e我的建议是：\u003c/p\u003e\u003cul\u003e\u003cli\u003e重温一下简历内容，确保每段经历都能用简短的语言复述；\u003c/li\u003e\u003cli\u003e带过的团队，做过的项目，组织过的活动，以STAR的形式准备好；\u003c/li\u003e\u003cli\u003e每一段经历，都应该准备实例和数据证明，会给面试官留下深刻印象；\u003c/li\u003e\u003cli\u003e准备几个感兴趣的问题，面试中如果没有获得解答，可以抛给面试官（准备什么类型的问题？我也写过\u003ca href=\"https://www.zhihu.com/question/28058827/answer/128278789\" class=\"internal\"\u003e当面试官问「你有什么要问我的吗」时，应该问什么？ - 知乎）\u003c/a\u003e。\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e（关于STAR：我在“\u003ca href=\"https://www.zhihu.com/question/19603341/answer/142760899\" class=\"internal\"\u003e面试的时候，如何自我介绍？ \u003c/a\u003e”回答中分享过）\u003c/p\u003e\u003cp\u003e没完。\u003c/p\u003e\u003cp\u003e接着换位思考，如果你是面试官，你可能对哪一段经历最感兴趣，最想了解。\u003c/p\u003e\u003cp\u003e相应的，这一段经历就应该充分准备，必要时的时候，应该将相应的资料和数据随身带上，方便在面试时拿出来作为证明。\u003c/p\u003e\u003ch2\u003e\u003cb\u003e了解公司\u003c/b\u003e\u003c/h2\u003e\u003cp\u003e负责打电话通知面试的HR，我很少见过语速慢的——可以理解，人一天可能要打100个这样的电话。\u003c/p\u003e\u003cp\u003e对于求职者来说，尤其是海投简历的小伙伴，很容易心虚，不敢多提问，有时候连公司名称都没有听清——我当年就是如此。\u003c/p\u003e\u003cp\u003e在电话通知环节，我们必须开口问，有诸多信息要确认：\u003c/p\u003e\u003col\u003e\u003cli\u003e面试时间／地点\u003c/li\u003e\u003cli\u003e公司名称／岗位名称\u003c/li\u003e\u003cli\u003e联系人信息（一旦迟到，得提前打电话道歉）\u003c/li\u003e\u003cli\u003e面试官是谁（HR还是直线经理，或者都一次性面试掉）\u003c/li\u003e\u003cli\u003e需要准备什么材料（一般逃不掉学历证明，身份证复印件等资料）\u003c/li\u003e\u003cli\u003e针对面试岗位，需要额外准备什么材料（如：做设计，是不是要带设计稿？）\u003c/li\u003e\u003c/ol\u003e\u003cp\u003e之后就是我们功课的第二部分：了解公司\u003c/p\u003e\u003cp\u003e这一块非常细节，不过还好，如今各位拥有太多互联网工具可以帮助查询了：\u003c/p\u003e\u003cul\u003e\u003cli\u003e公司地点在哪里，交通是否方便，需提前多久出发；\u003c/li\u003e\u003cli\u003e公司类型如何？我应该如何着装？去咨询公司逃不掉正装，而去互联网公司这么穿，人家或许以为你是房产中介；\u003c/li\u003e\u003cli\u003e公司业务如何？上市了吗？财报如何？主要产品有哪些？\u003c/li\u003e\u003cli\u003e公司在中国有多少分支机构？最近有什么新动向？\u003c/li\u003e\u003cli\u003e公司所在行业有何新动向？发展趋势如何？\u003c/li\u003e\u003cli\u003e公司的竞争对手有哪些？公司在行业内排名如何？\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e一方面，这些背景信息可以增进你对公司的了解，在你决定是否接offer时帮上忙。\u003c/p\u003e\u003cp\u003e另一方面，它们也可能让你体会到企业面临的困境／发展机会，让他们会来寻找你这样的人才。\u003c/p\u003e\u003ch2\u003e\u003cb\u003e了解岗位\u003c/b\u003e\u003c/h2\u003e\u003cp\u003e了解岗位了解JD，其实就是在了解企业的痛点。\u003c/p\u003e\u003cp\u003e企业的岗位需求（JD）通常包含了丰富的信息。\u003c/p\u003e\u003cp\u003e在我接到猎头电话时，我不会关注招聘广告或是猎头的口头描述，我首先要看JD。\u003c/p\u003e\u003cp\u003e如果没有JD，那么这个岗位或是刚开放出来的，企业不会写；或者是这家企业只是想了解一下市场行情，还没实质的招人计划。\u003c/p\u003e\u003cp\u003eJD分为两个部分：\u003c/p\u003e\u003cp\u003e岗位介绍（Description）和岗位要求（Requirement），\u003c/p\u003e\u003cp\u003e通常来说职场人会把注意力放在Requirement上，看经验看学历看英文要求是否匹配。\u003c/p\u003e\u003cp\u003e但实际上最重要的部分是岗位介绍，靠谱的岗位介绍应该包含主要的核心工作内容，作为候选人完全可以对照起来：\u003c/p\u003e\u003cblockquote\u003e哪些做过，做得好吗？是否有事实依据；\u003cbr/\u003e哪些没有做过，如果问起，怎么展现能够迅速上手的能力？\u003c/blockquote\u003e\u003cp\u003e还可以进一步思考，为什么要招这样的人，是不是这个公司有什么特别的需求／痛点，我是不是能够满足？如果没有合适的答案，就在面试中聆听，如果HR没讲，这个问题就可以留在最后提问HR。\u003c/p\u003e\u003cp\u003e了解岗位的第二种方法：\u003c/p\u003e\u003cp\u003e\u003cb\u003e开口问\u003c/b\u003e（不懂就问，没什么不好意思的，你又不是和公司谈恋爱）\u003c/p\u003e\u003cp\u003e首先问HR，\u003c/p\u003e\u003cblockquote\u003e到底这是个新设岗位，还是岗还在，人没了？\u003cbr/\u003e岗位汇报给谁？什么级别的领导？\u003c/blockquote\u003e\u003cp\u003e（问到后可以上LinkedIn搜一搜，到底未来的新领导是什么背景？喜欢在社交媒体平台上发表怎样的言论？三观正不正，没准还能问问离职的老兄，到底是啥原因让你受不了要撤）。\u003c/p\u003e\u003cp\u003e对于新设岗位，\u003c/p\u003e\u003cblockquote\u003e为什么要新设？\u003cbr/\u003e有哪些困难和挑战？\u003c/blockquote\u003e\u003cp\u003e这些都是最终需要候选人去解决的，如果候选人能从直线经理面试前，就准备好一个解决方案／工作计划，肯定会让面试官眼前一亮。\u003c/p\u003e\u003cp\u003e当然最好的了解岗位的方法还是内部有人。如果你有朋友已经在公司内，他可以帮你问到很多关于岗位的细节问题：\u003c/p\u003e\u003cul\u003e\u003cli\u003e公司为什么要设立这个岗位？\u003c/li\u003e\u003cli\u003e这个岗位的价值意义何在？需要人来解决什么问题？\u003c/li\u003e\u003cli\u003e这岗位招了多久，是不是急切需要人？\u003c/li\u003e\u003cli\u003e……\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e这些问题的答案，不仅能帮助候选人迅速的了解企业的需求和痛点，增加侯选人面试成功几率，还能帮助侯选人在薪资谈判时占据有利地形。\u003c/p\u003e\u003cp\u003e如果不是业务岗位，只是支持岗位，怎么写解决方案／工作计划？可以写如何做好本职工作嘛，我就说说当年我的案例（\u003ca href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMjM5MDQ1NjM2Mw%3D%3D%26tempkey%3DdRdsQ5jUjiMUT1Sq3vHY1lousu0tlSsGihIjJ5CbCMYj4AOwcImD9BcHMHTjT7OYICHmt0Ao4VR%252F2ns1voKyZHj098Y7RL5LMLXSWFu6n9C1NyyhodeBL5ZA9y3L1yX0xatrfThPfvuR5B14kb3fYA%253D%253D%26chksm%3D325d213d052aa82bcabd7511b45c28a9dfd01617ca432b6e934aa38298babaa64b42ba9f3bc1%23rd\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003e知乎大V面试现形记）\u003c/a\u003e：\u003c/p\u003e\u003cblockquote\u003e很多面试都没有回音，让我开始思考是不是哪里出错了；在一位职场导师的指导下，我开始将“做好业务支持的岗位，应该具备哪些素质”，写成一篇文章——当年字写得不错，所以我特意手写，给面试官留下深刻印象——之后一个月里4次面试3次拿到offer，赶在金融危机前夜找到了工作。\u003c/blockquote\u003e\u003cp\u003e总结一下：\u003c/p\u003e\u003cp\u003e很多小伙伴都知道面试重要，需要仔细准备。\u003c/p\u003e\u003cp\u003e但真的到面试邀约来到的时候，又会犯懒不肯去问，去查资料。\u003c/p\u003e\u003cp\u003e事后后悔，却太迟了。\u003c/p\u003e\u003cp\u003e送大家一句名言：Fail to prepare = prepared to fail\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic4.zhimg.com/v2-cb148d9adb38329753085bb5a28278c7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"512\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://pic4.zhimg.com/v2-cb148d9adb38329753085bb5a28278c7_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1000\u0026#39; height=\u0026#39;512\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"512\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1000\" data-original=\"https://pic4.zhimg.com/v2-cb148d9adb38329753085bb5a28278c7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-cb148d9adb38329753085bb5a28278c7_b.jpg\"/\u003e\u003c/figure\u003e\u003cp\u003e相反，我做好充分的准备，但依然被面试官刷下来的时候，我不后悔，已尽了全力，只能说我确实不适合这家公司，或是缘分未到。\u003c/p\u003e\u003chr/\u003e\u003cp\u003e想要进一步学习的小伙伴们，还可以参加我之前4.8分的面试live，更全面更细节，希望对大家有帮助\u003c/p\u003e\u003ca href=\"https://www.zhihu.com/lives/908708952055877632\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-0d8fae9c0958d4b83478dfc7f9fc383f_ipico.jpg\" data-image-width=\"1462\" data-image-height=\"1462\" class=\"internal\"\u003e掌握这十招面试技巧 成为面试达人\u003c/a\u003e\u003cp\u003e\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 1,
+          "thumbnails": [
+            {
+              "data_url": "",
+              "url": "https://pic4.zhimg.com/80/v2-cb148d9adb38329753085bb5a28278c7_bh.jpg",
+              "type": "image"
+            }
+          ],
+          "type": "thumbnail_info"
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "question": {
+          "id": "25039418",
+          "type": "question",
+          "name": "\u003cem\u003e面试\u003c/em\u003e前都需要做些什么准备？",
+          "url": "https://api.zhihu.com/questions/25039418"
+        },
+        "author": {
+          "id": "46434180b257f06a2616522729e5a79c",
+          "url_token": "sean-yenan",
+          "name": "Sean Ye",
+          "headline": "公众号：瞎说职场 HRinsight",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/46434180b257f06a2616522729e5a79c",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-0d8fae9c0958d4b83478dfc7f9fc383f_s.jpg",
+          "badge": [
+            {
+              "type": "best_answerer",
+              "description": "优秀回答者",
+              "topics": [
+                {
+                  "id": "19560641",
+                  "name": "职业规划",
+                  "introduction": "根据中国职业规划师协会的定义，职业规划是对职业生涯乃至人生进行持续的系统的计划的过程，它包括职业定位、目标设定和通道设计三个要素。职业规划（career planning）也叫“职业生涯规划”。职业生涯规划的好坏必将影响整个生命历程。",
+                  "excerpt": "根据中国职业规划师协会的定义，职业规划是对职业生涯乃至人生进行持续的系统的计划的过程，它包括职业定位、目标设定和通道设计三个要素。职业规划（career planning）也叫“职业生涯规划”。职业生涯规划的好坏必将影响整个生命历程。",
+                  "type": "topic",
+                  "url": "https://api.zhihu.com/topics/19560641",
+                  "avatar_url": "https://pic1.zhimg.com/50/1abb11bdd_s.jpg"
+                },
+                {
+                  "id": "19555189",
+                  "name": "人力资源（HR）",
+                  "introduction": "人力资源（Human Resources ，简称HR）指在一个国家或地区中，处于劳动年龄、未到劳动年龄和超过劳动年龄但具有劳动能力的人口之和。或者表述为：一个国家或地区的总人口中减去丧失劳动能力的人口之后的人口。人力资源也指一定时期内组织中的人所拥有的能够被企业所用，且对价值创造起贡献作用的教育、能力、技能、经验、体力等的总称。狭义讲就是企事业单位独立的经营团体所需人员具备的能力（资源）。",
+                  "excerpt": "人力资源（Human Resources ，简称HR）指在一个国家或地区中，处于劳动年龄、未到劳动年龄和超过劳动年龄但具有劳动能力的人口之和。或者表述为：一个国家或地区的总人口中减去丧失劳动能力的人口之后的人口。人力资源也指一定时期内组织中的人所拥有的能够被企业所用，且对价值创造起贡献作用的教育、能力、技能、经验、体力等的总称。狭义讲就是企事业单位独立的经营团体所需人员具备的能力（资源）。",
+                  "type": "topic",
+                  "url": "https://api.zhihu.com/topics/19555189",
+                  "avatar_url": "https://pic4.zhimg.com/50/68b1b8cf6_s.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        "flag": {
+          "flag_type": "editor_recommendation",
+          "flag_text": ""
+        },
+        "attached_info_bytes": "OpkBCgtwbGFjZWhvbGRlchIgZTQ5M2I2YjI5ZmE3ZDQ0OWIxY2NjM2JiZGRlZWM3ODkYBCIINTcwOTE5NTYqCTE1Mzg3MTM1NjIHMjE5Nzg0NzoIMjUwMzk0MThKBumdouivlVAAWAFgAZgBAKABAqgBALABAbgBAMIBDOe8lui+keaOqOiNkNABjZzjxgXYAZBT4AFngAIAuAIA"
+      },
+      "index": 2
+    },
+    {
+      "type": "knowledge_ad",
+      "highlight": {},
+      "object": {
+        "header": {
+          "card_title": ""
+        },
+        "body": {
+          "title": "你该知道的那些\u003cem\u003e面试\u003c/em\u003e套路",
+          "description": "一想到要去\u003cem\u003e面试\u003c/em\u003e，你是否会感到莫名的紧张、压力很大、焦躁，本能的想要逃避？是的，绝大多数的人都会有类似的感受，大家害怕陌",
+          "authors": [
+            {
+              "name": "讲者: 喧哗与低语",
+              "url_token": "lanyu88",
+              "bio": ""
+            }
+          ],
+          "images": [
+            "https://pic4.zhimg.com/v2-e5baff1b9dbef92165d072152b38a4df_r.jpg"
+          ],
+          "can_try": false,
+          "button": {
+            "text": "",
+            "url": ""
+          },
+          "media_type": "UNKNOWN",
+          "content": ""
+        },
+        "footer": "3.2K 热度",
+        "commodity_id": "781851886587252736",
+        "commodity_type": "live",
+        "url": "https://www.zhihu.com/lives/781851886587252736",
+        "label": {
+          "text": "",
+          "color": "",
+          "commodity_type": ""
+        },
+        "source": "ADSENSE",
+        "card_version": "1",
+        "slave_url": "",
+        "tab_type": "general",
+        "attached_info_bytes": "OoMDCgtwbGFjZWhvbGRlchIgZTQ5M2I2YjI5ZmE3ZDQ0OWIxY2NjM2JiZGRlZWM3ODkYCyISNzgxODUxODg2NTg3MjUyNzM2KgEwSgbpnaLor5VQAFgBYAGYAQGgAQOoAQCwAQGAAgCyApcCeyJjb250ZW50X2lkIjo3ODE4NTE4ODY1ODcyNTI3MzYsImNvbnRlbnRfdHlwZSI6IkxpdmUiLCJjb250ZW50X3Rva2VuIjowLCJzdWJfY29udGVudF9pZCI6MCwic3ViX2NvbnRlbnRfdHlwZSI6IiIsIm1hdGVyaWFsX2lkIjoxMTgzODQ1MDc0OTE4NzA3MjAwLCJpc19pbnRlcnZlbmUiOnRydWUsInJlY2FsbF9zY29yZSI6MC45OSwicmVjYWxsX3NvdXJjZSI6IlN1cGVySW50ZXJ2ZW5lIiwicmVjYWxsX3JhbmsiOjAsImlzX3ZpcCI6ZmFsc2UsImlzX2Fjcm9zc192ZXJ0aWNhbCI6ZmFsc2V9uAIA"
+      },
+      "index": 3,
+      "id": 781851886587252736
+    },
+    {
+      "type": "knowledge_ad",
+      "highlight": {},
+      "object": {
+        "header": {
+          "card_title": ""
+        },
+        "body": {
+          "title": "资深\u003cem\u003e面试\u003c/em\u003e官教你\u003cem\u003e面试\u003c/em\u003e技巧",
+          "description": "但是很多朋友对\u003cem\u003e面试\u003c/em\u003e却手足无措，本来有实力在\u003cem\u003e面试\u003c/em\u003e中却无法充分展现，导致错失机会，这是因为缺乏\u003cem\u003e面试\u003c/em\u003e技巧的训练，\u003cem\u003e面试\u003c/em\u003e技巧靠",
+          "authors": [
+            {
+              "name": "讲者: 程墨Morgan",
+              "url_token": "morgancheng",
+              "bio": ""
+            }
+          ],
+          "images": [
+            "https://pic4.zhimg.com/04d3c071d_r.jpg"
+          ],
+          "can_try": false,
+          "button": {
+            "text": "",
+            "url": ""
+          },
+          "media_type": "UNKNOWN",
+          "content": ""
+        },
+        "footer": "8.1K 热度",
+        "commodity_id": "906569183528120320",
+        "commodity_type": "live",
+        "url": "https://www.zhihu.com/lives/906569183528120320",
+        "label": {
+          "text": "",
+          "color": "",
+          "commodity_type": ""
+        },
+        "source": "ADSENSE",
+        "card_version": "1",
+        "slave_url": "",
+        "tab_type": "general",
+        "attached_info_bytes": "OoMDCgtwbGFjZWhvbGRlchIgZTQ5M2I2YjI5ZmE3ZDQ0OWIxY2NjM2JiZGRlZWM3ODkYCyISOTA2NTY5MTgzNTI4MTIwMzIwKgEwSgbpnaLor5VQAFgBYAGYAQGgAQSoAQCwAQGAAgCyApcCeyJjb250ZW50X2lkIjo5MDY1NjkxODM1MjgxMjAzMjAsImNvbnRlbnRfdHlwZSI6IkxpdmUiLCJjb250ZW50X3Rva2VuIjowLCJzdWJfY29udGVudF9pZCI6MCwic3ViX2NvbnRlbnRfdHlwZSI6IiIsIm1hdGVyaWFsX2lkIjoxMTgzODQ1MDc5NTgzNzk3MjQ4LCJpc19pbnRlcnZlbmUiOnRydWUsInJlY2FsbF9zY29yZSI6MC45OSwicmVjYWxsX3NvdXJjZSI6IlN1cGVySW50ZXJ2ZW5lIiwicmVjYWxsX3JhbmsiOjAsImlzX3ZpcCI6ZmFsc2UsImlzX2Fjcm9zc192ZXJ0aWNhbCI6ZmFsc2V9uAIA"
+      },
+      "index": 4,
+      "id": 906569183528120320
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "是国企还是外企，\u003cem\u003e面试\u003c/em\u003e到最后，面试官往往会问：“你还有什么问题吗？” 这时，你是回答“没有”还是“有”？ 如果你回答 “ 没有 ”，这往往被一些面试官理解为：你对\u003cem\u003e应聘\u003c/em\u003e公司、工作岗位没有太大的兴趣",
+        "title": "当\u003cem\u003e面试\u003c/em\u003e官问“你有什么要问我的吗”时，应该说什么？"
+      },
+      "object": {
+        "id": "37586369",
+        "title": "当\u003cem\u003e面试\u003c/em\u003e官问“你有什么要问我的吗”时，应该说什么？",
+        "type": "article",
+        "url": "https://api.zhihu.com/articles/37586369",
+        "excerpt": "是国企还是外企，\u003cem\u003e面试\u003c/em\u003e到最后，面试官往往会问：“你还有什么问题吗？” 这时，你是回答“没有”还是“有”？ 如果你回答 “ 没有 ”，这往往被一些面试官理解为：你对\u003cem\u003e应聘\u003c/em\u003e公司、工作岗位没有太大的兴趣",
+        "voteup_count": 29497,
+        "comment_count": 994,
+        "created_time": 1527845795,
+        "updated_time": 1535097002,
+        "content": "\u003cp\u003e\u003cb\u003e相信大家面试时或许都经历过这么一个过程：不管是500强公司还是创业公司，是国企还是外企，面试到最后，面试官往往会问：“你还有什么问题吗？”\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e这时，你是回答“没有”还是“有”？\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cb\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic4.zhimg.com/v2-4cbaf7465602b17f507b583d4a557887_b.jpg\" data-rawwidth=\"475\" data-rawheight=\"473\" data-caption=\"\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"475\" data-original=\"https://pic4.zhimg.com/v2-4cbaf7465602b17f507b583d4a557887_r.jpg\"/\u003e\u003c/figure\u003e\u003c/b\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e如果你回答 “ 没有 ”，这往往被一些面试官理解为：你对应聘公司、工作岗位没有太大的兴趣。可能会让面试官产生误解，而影响面试评判。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e如果你回答 “ 有 ”，一时间又容易脑子短路，可能会不知道该问以下哪个问题：\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e问企业发展？怕面试官觉得这个人好虚，有点不切实际\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e问薪资待遇、假期福利？又怕面试官觉得这个人没有事业心，入职了也不会呆太久的，整天就想着休息……\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cb\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic1.zhimg.com/v2-e235071a7e1126a02bf710ab686219f4_b.jpg\" data-rawwidth=\"313\" data-rawheight=\"314\" data-caption=\"\" data-size=\"normal\" class=\"content_image\" width=\"313\"/\u003e\u003c/figure\u003e\u003c/b\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e那怎么办，来来来，搬好小凳子，小编今天给大家做了一个整理，下次再遇到这个情况，就是你发挥的时候了！\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e首先，你必须提问\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e面试往往是互相了解过后，面试者处于被动状态，这个时候面试官将问题抛出，你必须把握住主动权，让面试官知道你是认真对待这次面试，而不是敷衍的流水线面试。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e那么，问什么呢？\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cb\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic4.zhimg.com/v2-eb1de21514483188764ea229143b2737_b.jpg\" data-rawwidth=\"500\" data-rawheight=\"392\" data-caption=\"\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-eb1de21514483188764ea229143b2737_r.jpg\"/\u003e\u003c/figure\u003e\u003c/b\u003e\u003cb\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic1.zhimg.com/v2-f979a679f089df199b13cdf221e339d8_b.jpg\" data-rawwidth=\"397\" data-rawheight=\"398\" data-caption=\"\" data-size=\"normal\" class=\"content_image\" width=\"397\"/\u003e\u003c/figure\u003e\u003c/b\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e不管面试官是HR、部门领导，还是老板，以下问题都可以帮你轻松度过难关，而且你还能从面试官的回答中得到很多意外收获：\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e你在公司的一天是如何度过的？\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e这个简单的问题可以让对方滔滔不绝的讲述他一天的工作，面试官会说一些比较自豪和有意义的事情，同时也会有一些琐碎的事情。在听的过程中，你也能感受到未来工作中是否有你的兴趣点，以及最无聊的那个部分你是不是可以接受。同时也可以从中推估到你的未来发展，因为升职后也会有一天成为他。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e能否给我简单介绍下贵公司业务与战略的未来发展？\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e在实际运用时，要取决于公司的业务范围。听听面试官的计划，这可显出你关注公司整体和未来的发展。同时也可以从他们的谈论中了解到不同公司在同一个行业的情况，对你准备其他公司的面试也会有所帮助。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e贵公司最让你自豪的企业文化是什么？\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e注意！一般情况下，这个问题比较适合用在面试大公司的职位时，当然现在有不少创业公司也是非常看重企业文化的。通过这个问题，你可以从面试官口中了解到公司的工作氛围和一些非硬件的环境情况，同时也可以在面试官表达的过程中去留意他的肢体、感情的表达。如果从身体语言上都表达出认同公司的文化，那说明该公司在企业文化建设方面做得不错。同时你也可以自我假设一下是否可以融入这种氛围。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e团队、公司现在面临的最大挑战是什么？\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e这个问题比较安全，也是一个可以引起面试官兴趣的话题。一来这个问题不会暴露你对公司的不了解，二来也能让你对未来工作的挑战或困难有一个提前的预期。除此之外 ，这类问题用的好，会很容易增加印象分。特别当面试官是外国或海归人士时，比较直接一点绝对不是坏事儿！\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e对于未来加入这个团队，你对我的期望是什么？\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e如果面试官将会是你的直属上司，那么这个问题会让你的利益相关者一开始就有一个感觉，你是一个非常在乎他或者团队，并且愿意倾听的候选人。这样对于快速的培养起一段专业的合作关系是很有帮助的，同时也可以更理解他对你的期望值。也可以初步判断出他是一个成果导向，还是过程导向的上司；是一个由上至下思考，还是一个下至上思考的领导。如果把握准确会更会令面试官觉得：你是一个会做好准备并且有同理心的人，这绝对是加分项。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e我很好奇，你最不喜欢公司的哪一点？\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e也许你会觉得这个问题有点刺耳，但这绝对是独门秘方，各种面试屡试不爽的一个问题。你可以向面试官委婉的表达：“我知道贵公司在XX领域做的很好，又是国际化大公司，你也许有很多理由喜欢在这里工作，但我很好奇，你最不喜欢的是哪一点？”要知道大多的求职者倾向于向面试官提问他最喜欢公司什么地方，而不是不喜欢的地方。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e不过需要提醒的是，这个问题的使用原则是你有十分的把握这个面试进行的很顺利，和面试官之间的交流气氛很适合，不然会有反效果。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e我期望参与团队合作达成共同目标，您可以给我举一个公司中团队合作的实例吗？\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e这一问题也是要根据你面试的企业情况来定夺，如果面试的是大企业，同时又是外企，那么合作对于他们来说是必须的，因为很多事情你一个人是不可能完成，所以自然会非常看重你对合作的态度。通过这个问题，可以让面试官知道你有强烈的合作倾向。同时从回答中，你也可以感受到这个公司团队合作的情况如何。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e其实面试是一个交流和互动的机会，建议大家，不要把面试看做是一个测试，只是简单的一问一答。更多的是要和面试官进行交流，所谓的交流就是给面试官更多的机会，也让他尽可能的去表达他想要传递的内容。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e有数据显示，面试中面试官讲话时间的占比越高，面试的成功率就越高。因为他愿意把公司展现给你，表现出来的自然是一种欢迎的态度。反之，如果他只是一味的听你说做自我介绍，听你讲你之前的工作经验，那你成功的几率将会大大降低。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e所以，当面试官提出这个终极问题：“你还有什么问题吗？”时，一定要记住：不是问什么问题都是OK的，更重要的是不能盲目的去提问一些死记硬背的问题，因为这不但不会有加分项，更有可能把面试上半部分的好印象也都抵消了。\u003c/b\u003e\u003c/p\u003e\u003cb\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-23ea1c879ae19df38ff60207bb7ef87e_b.jpg\" data-rawwidth=\"550\" data-rawheight=\"348\" data-caption=\"\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic3.zhimg.com/v2-23ea1c879ae19df38ff60207bb7ef87e_r.jpg\"/\u003e\u003c/figure\u003e\u003c/b\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e欢迎大家回复更多问题探讨，还可以微信关注我们的互云脉片公众号或者添加huyunmaipian002 骚扰我，一起谈天说地，一起探讨人生哲学...........所以快来找我吧！我在互云脉片公众号等你！\u003c/p\u003e\u003cp\u003e\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 1,
+          "thumbnails": [
+            {
+              "data_url": "",
+              "url": "https://pic2.zhimg.com/80/v2-c67c56afe733af80dec5b02093ccadfe_r.jpg",
+              "type": "image"
+            }
+          ],
+          "type": ""
+        },
+        "author": {
+          "id": "009df941d0a12b1b81ded48b2d1a56d3",
+          "url_token": "hu-dong-xiao-yun",
+          "name": "互动小云",
+          "headline": "互云脉片，线上APP与微信小程序+手撕名片",
+          "gender": 0,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/009df941d0a12b1b81ded48b2d1a56d3",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-b948a98088bf6903b7032808123f6151_s.jpg",
+          "badge": []
+        },
+        "voting": 0,
+        "relationship": {
+          "is_voted": false,
+          "is_author": false
+        },
+        "flag": null,
+        "attached_info_bytes": "OncKC3BsYWNlaG9sZGVyEiBlNDkzYjZiMjlmYTdkNDQ5YjFjY2MzYmJkZGVlYzc4ORgHIgc3MjI1NzAyKggzNzU4NjM2OUoG6Z2i6K+VUABYAWABmAEAoAEFqAEAsAEBuAEA0AGjp8TYBdgBueYB4AHiB4ACALgCAA=="
+      },
+      "index": 5
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "也要有细节。 （4）你为什么来\u003cem\u003e应聘\u003c/em\u003e这个岗位？ 这个问题HR是想考察你的能力是否与岗位需求相匹配，所以，\u003cem\u003e面试\u003c/em\u003e之前，务必把岗位需求弄清楚，并分析出\u003cem\u003e应聘\u003c/em\u003e这份工作，你需要具备的能力",
+        "title": "你有哪些\u003cem\u003e面试\u003c/em\u003e失败的惨痛经验？"
+      },
+      "object": {
+        "id": "620486019",
+        "type": "answer",
+        "excerpt": "也要有细节。 （4）你为什么来\u003cem\u003e应聘\u003c/em\u003e这个岗位？ 这个问题HR是想考察你的能力是否与岗位需求相匹配，所以，\u003cem\u003e面试\u003c/em\u003e之前，务必把岗位需求弄清楚，并分析出\u003cem\u003e应聘\u003c/em\u003e这份工作，你需要具备的能力",
+        "url": "https://api.zhihu.com/answers/620486019",
+        "voteup_count": 73360,
+        "comment_count": 831,
+        "created_time": 1552360269,
+        "updated_time": 1559801872,
+        "content": "\u003cp\u003e第一次去面试。\u003c/p\u003e\u003cp\u003eHR问我：“你未来5年的职业目标是什么？”\u003c/p\u003e\u003cp\u003e我脱口而出，“额，年薪三十万吧……”说完就觉得不对了，也太傻了吧zzz……恨不得当场给自己一拳头。\u003c/p\u003e\u003cp\u003eHR皱了下眉头（小伙子口气还不小），接着问我：“这个目标不算小，你有什么具体的规划来实现它呢？”\u003c/p\u003e\u003cp\u003e我傻眼了，说了一堆自己都没法相信的空话。\u003c/p\u003e\u003cp\u003e然后，就没有然后了。\u003c/p\u003e\u003cp\u003e所以，同学们，面试一定要准备。不要有侥幸心理，毫无准备的面试者，一定会死（mian）！的（shi）！很（shi）！惨（bai）！\u003c/p\u003e\u003cp\u003e那具体该如何准备呢？\u003c/p\u003e\u003cp\u003e话不多说，上干货：\u003c/p\u003e\u003cp\u003e\u003cb\u003e1.面试中最刁钻，最难回答的7个问题。（附正反例子）\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e2.三个你必须注意的身体小细节\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e3.项目经历的流畅表达\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e4.面试后的终极必杀。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e前方高能！！！心脏不好的童鞋还请谨慎观看……（温馨提示，文末有惊喜哦）\u003c/b\u003e\u003c/p\u003e\u003ch2\u003e\u003cb\u003e1.假定我是面试官，我来面你（上来就是一顿乱锤）：\u003c/b\u003e\u003c/h2\u003e\u003ch3\u003e\u003cb\u003e（1）你觉得你的缺点是什么？\u003c/b\u003e\u003c/h3\u003e\u003cp\u003e自杀式答案：\u003c/p\u003e\u003cp\u003e“我的缺点是，目标岗位需要的XXX能力，虽然我暂时还不具备，但我踏实肯吃苦，我一定会努力掌握这些能力的”\u003c/p\u003e\u003cp\u003e“我比较缺乏耐心和意志力，当然我在改了”\u003c/p\u003e\u003cp\u003e“我最大的缺点是，不会察言观色”\u003c/p\u003e\u003cp\u003e……\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic4.zhimg.com/v2-4be06f4a85e22f7cbb96d2d17ed31b77_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"426\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-4be06f4a85e22f7cbb96d2d17ed31b77_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;640\u0026#39; height=\u0026#39;426\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"640\" data-rawheight=\"426\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-4be06f4a85e22f7cbb96d2d17ed31b77_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4be06f4a85e22f7cbb96d2d17ed31b77_b.jpg\"/\u003e\u003c/figure\u003e\u003cp\u003e以上种种，堪比应聘者中的王宝强，实诚的令人心疼。\u003c/p\u003e\u003cp\u003e\u003cb\u003eTips：避重就轻，不要过分耿直。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e推荐回答：“\u003cb\u003e我的缺点是，做事的时候顾虑太多，虽然会让我少犯一些差错，但很可能在决策过程中错过一些好机会，这要求我注重团队协作，运用集体智慧，排查风险，抓住机会。”\u003c/b\u003e\u003c/p\u003e\u003cp\u003e或者：\u003cb\u003e“我心直口快，容易得罪人。不过我向来对事不对人，而且事后也主动道歉，和我相处过一段时间的人都能理解我的这个缺点。”\u003c/b\u003e\u003c/p\u003e\u003cp\u003e总之，与岗位需求直接相关的能力和技能即使你还不熟练，也千万不要说。同时，回答不能太假，不能抖机灵。\u003c/p\u003e\u003cp\u003e优秀的回答5分套路5分真诚。\u003c/p\u003e\u003ch3\u003e（2）谈谈你离开上一家公司的原因？\u003c/h3\u003e\u003cp\u003e自杀式答案：“因为xxx领导太傻叉了，不想跟他干了。\u003c/p\u003e\u003cp\u003e“因为xxx领导不重视人才”\u003c/p\u003e\u003cp\u003e ……\u003c/p\u003e\u003cp\u003e背地里说别人坏话的，最让人讨厌了，出门左转，谢谢！\u003c/p\u003e\u003cp\u003eTips：\u003cb\u003e一定不要说上家公司的坏话，回答要表现出正能量。钱太少，工作太累，不想加班这类原因不要说。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e推荐一个比较安全的回答：\u003c/p\u003e\u003cp\u003e\u003cb\u003e“我在上一家公司干的还可以，也取得了一定的成绩，但在职业上遇到了瓶颈，进步太慢。这让我很痛苦，所以我来了，因为我想寻求更广阔的发展空间，更好的实现我的人生价值。”\u003c/b\u003e\u003c/p\u003e\u003cp\u003e欲抑先扬，这样的回答不见得多亮眼，但至少不会扣分。\u003c/p\u003e\u003cp\u003e当然，如果确实是因为家里有人需要照顾或者其他原因的，诚恳地说出来就好，人家只会认为你有孝心，不会有任何的问题。\u003c/p\u003e\u003ch3\u003e（3）\u003cb\u003e谈谈你在未来5年的职业规划\u003c/b\u003e\u003c/h3\u003e\u003cp\u003e自杀式回答：“我要年薪xxx，当上xxx主管，xxx经理”\u003c/p\u003e\u003cp\u003e……口气倒不小，你要怎么实现？具体有什么规划？一连串的发问会让你怀疑人生。\u003c/p\u003e\u003cp\u003e\u003cb\u003eTips：细节是王道。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e推荐回答：\u003c/p\u003e\u003cp\u003e\u003cb\u003e非常感谢您的提问，首先，这是一个我非常感兴趣的行业，能将我的工作和兴趣相结合，因此，目前我会认真的对待该岗位，希望能尽快融入公司团队。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e同时，在5年之内，我要持续的学习xxx知识，掌握xxx能力，争取做到xxx职位，独立负责xxx事务，解决xxx问题。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e另外，我也会根据自身的发展情况不断调整计划，使其更合理，更容易达成。对于职业规划，我的理解大致是这样子的，谢谢！\u003c/b\u003e\u003c/p\u003e\u003cp\u003e总之，回答的时候，不要只丢一个目标在那里，会让人觉得你太浮躁，不踏实。正确的回答要有目标，也要有细节。\u003c/p\u003e\u003ch3\u003e（4）你为什么来应聘这个岗位？\u003c/h3\u003e\u003cp\u003e这个问题HR是想考察你的能力是否与岗位需求相匹配，所以，面试之前，务必把岗位需求弄清楚，并分析出应聘这份工作，你需要具备的能力。\u003c/p\u003e\u003cp\u003e这是一份招收应届生的新媒体运营JD:\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic1.zhimg.com/v2-e66489503d1ada7c30a1fcd182cedf04_b.jpg\" data-rawwidth=\"709\" data-rawheight=\"569\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"709\" data-original=\"https://pic1.zhimg.com/v2-e66489503d1ada7c30a1fcd182cedf04_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;709\u0026#39; height=\u0026#39;569\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"709\" data-rawheight=\"569\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"709\" data-original=\"https://pic1.zhimg.com/v2-e66489503d1ada7c30a1fcd182cedf04_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e66489503d1ada7c30a1fcd182cedf04_b.jpg\"/\u003e\u003c/figure\u003e\u003cp\u003e分析JD后可以得出，应聘目标岗位所需的能力有：\u003c/p\u003e\u003cp\u003e\u003cb\u003e沟通能力、策划能力、文案功底、数据分析能力。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e自杀式回答：“我也不知道为什么，就是觉得这个职位适合我”\u003c/p\u003e\u003cp\u003e……你也太糊弄了吧，这么不认真，来人啊，抬走！抬走！\u003c/p\u003e\u003cp\u003e\u003cb\u003eTips：根据自身条件，重点描述匹配该职位的自身已经具备的工作经历和能力，告诉公司，选我！选我！选我！\u003c/b\u003e\u003c/p\u003e\u003cp\u003e推荐回答：\u003c/p\u003e\u003cp\u003e\u003cb\u003e“首先，我个人对这个岗位非常感兴趣，它能够让我将工作与生活结合起来。其次，我曾经通过xxx，做了xxx，取得了xxx效果，具备xxx能力，这恰巧也是这个岗位所需要的，所以，我来了。”\u003c/b\u003e\u003c/p\u003e\u003ch3\u003e（5）说说你在过去工作中遇到的困难，你是如何解决的？\u003c/h3\u003e\u003cp\u003e叙述模式：\u003cb\u003e做了什么+怎么做的+最后的结果+总结\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003eTips：重点描述解决问题的过程，别忘了总结经验\u003c/b\u003e\u003c/p\u003e\u003cp\u003e推荐回答：\u003c/p\u003e\u003cp\u003e\u003cb\u003e我在xxx工作时，接到了xxx项目。因为和竞品外观相似度较高，需要规避专利风险，对xxx重新设计\u003c/b\u003e。（做了什么）\u003cb\u003e由于焊点不能暴露在外面，又要保证美观，因此我连着加班3天，做了十几个备选方案，筛选出一套全新的一体化和内折叠的结构设计方案\u003c/b\u003e（怎么做的）\u003cb\u003e不仅外观更好看，产品上市后，消费者反馈良好。\u003c/b\u003e（最后的结果），\u003cb\u003e在这次工作中，我意识到，遇到问题，我们不能钻牛角尖，需要及时变换方式方法，灵活应对。\u003c/b\u003e（总结经验）\u003c/p\u003e\u003ch3\u003e\u003cb\u003e（6）你在大学里的成绩并不好，是什么原因呢？\u003c/b\u003e\u003c/h3\u003e\u003cp\u003e先说明，如果有人这么问你的话，那么很可能你被他看入眼了，面试官只会在对你产生兴趣的时候才会深挖你的讯息。\u003c/p\u003e\u003cp\u003e自杀式回答：“学习成绩不重要，所以自己没用心学”\u003c/p\u003e\u003cp\u003e……学习成绩都不重要，那你认为什么是重要的？\u003c/p\u003e\u003cp\u003e\u003cb\u003eTips：实话实说，简明扼要，但是尽量传递正能量。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e推荐回答：\u003c/p\u003e\u003cp\u003e\u003cb\u003e一直学习都挺认真的，之前方法不对，一直没学好，后来找到问题，成绩就慢慢赶上来了。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e总之，尽量传递正能量，不要找学习成绩不重要，自己不想学之类的借口。\u003c/p\u003e\u003ch3\u003e（7）你对薪资有什么要求？\u003c/h3\u003e\u003cp\u003e首先上boss直聘、智联招聘、拉勾网这些渠道上了解目标岗位的薪资预算范围。\u003c/p\u003e\u003cp\u003e以boss直聘上一份招收应届生的真实JD为例：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic2.zhimg.com/v2-b59cc9f8ad02ce27d2d1cfe6211161e1_b.jpg\" data-rawwidth=\"1058\" data-rawheight=\"223\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1058\" data-original=\"https://pic2.zhimg.com/v2-b59cc9f8ad02ce27d2d1cfe6211161e1_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1058\u0026#39; height=\u0026#39;223\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"1058\" data-rawheight=\"223\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1058\" data-original=\"https://pic2.zhimg.com/v2-b59cc9f8ad02ce27d2d1cfe6211161e1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b59cc9f8ad02ce27d2d1cfe6211161e1_b.jpg\"/\u003e\u003c/figure\u003e\u003cp\u003e\u003cb\u003eTips：根据薪资预算范围给出合理要求，不能过高，也不能过低。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e如果你感觉聊得不错，预算工资可以比较接近\u003cb\u003e预算上限（10000），\u003c/b\u003e聊得一般的话，取个\u003cb\u003e中间数\u003c/b\u003e就可以。\u003cb\u003e（7500）\u003c/b\u003e\u003c/p\u003e\u003ch2\u003e\u003cb\u003e2.给你面试加分的身体小细节\u003c/b\u003e\u003c/h2\u003e\u003ch3\u003e\u003cb\u003e（1）仪表\u003c/b\u003e\u003c/h3\u003e\u003cp\u003e男生除特殊职业外，或者公司有特别要求，面试不用穿正装，休闲装就行。头发不要太长，短发看起来更加干练清爽。\u003c/p\u003e\u003cp\u003e女生的话，尽量不要画太浓的妆，刘海不要太长，衣服颜色别太艳丽，尽量黑白灰，给人职场女性的感觉。\u003c/p\u003e\u003cp\u003e总的来说，四个字:干净得体。\u003c/p\u003e\u003cp\u003e\u003cb\u003etips：面试之前可以在两边太阳穴抹点风油精，提神醒脑。\u003c/b\u003e\u003c/p\u003e\u003ch3\u003e（2）举止\u003c/h3\u003e\u003cp\u003e\u003cb\u003e肩膀要放松，不要太紧绷\u003c/b\u003e（这样会显得很不自信）\u003c/p\u003e\u003cp\u003e\u003cb\u003e双腿微张，既不要张的太开\u003c/b\u003e（太随便），\u003cb\u003e也不要并得太拢\u003c/b\u003e（太拘谨）\u003c/p\u003e\u003cp\u003e\u003cb\u003e男生可以压低声量，说话尽量慢一点\u003c/b\u003e（更成熟，更有条理）\u003c/p\u003e\u003cp\u003e\u003cb\u003e说话的时候要看着HR，面露微笑。\u003c/b\u003e（显得有礼貌）但也不要一直盯着，时不时看看就好。\u003c/p\u003e\u003cp\u003e\u003cb\u003e还有，小动作不要太多，不要抖腿，不要咬指甲\u003c/b\u003e（这同样会显得你很紧张，不自信）\u003c/p\u003e\u003ch3\u003e\u003cb\u003e（3）态度\u003c/b\u003e\u003c/h3\u003e\u003cp\u003e\u003cb\u003e不卑不亢、耐心细致。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e这里插一嘴，作为老胡的忠实粉丝，强烈安利《猎场》这部电视剧，秋冬哥找工作神挡杀神佛挡杀佛的那段经历简直看呆了，大家有空可以看一看，绝对是面试的绝佳范本。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic2.zhimg.com/v2-bad320d095c61aedbce1857be5c026d1_b.jpg\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic2.zhimg.com/v2-bad320d095c61aedbce1857be5c026d1_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1920\u0026#39; height=\u0026#39;1080\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic2.zhimg.com/v2-bad320d095c61aedbce1857be5c026d1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-bad320d095c61aedbce1857be5c026d1_b.jpg\"/\u003e\u003c/figure\u003e\u003cp\u003e因参演《十二生肖》而大红大紫的龙女郎张蓝心曾透露，当初去试角的时候，她只是一个退役运动员，完全不会演戏。\u003c/p\u003e\u003cp\u003e去面试的演员，比她漂亮的不少，比她会演戏的，更是不计其数。\u003c/p\u003e\u003cp\u003e然而最后定下了她。原因何在？\u003c/p\u003e\u003cp\u003e“是认真。面对导演的要求，她非常地有耐心，一遍一遍的踢腿，态度非常诚恳。”龙叔后来采访时说。\u003c/p\u003e\u003cp\u003e所以，认真的姑娘运气都不会太差，你同意吗？\u003c/p\u003e\u003ch2\u003e\u003cb\u003e3.流畅地表达项目经历\u003c/b\u003e\u003c/h2\u003e\u003cp\u003e\u003cb\u003e首先你要明白，HR面试，就是一个验货的过程。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e说白了，就是想看看你真人具备的能力是不是和简历上写得一样。\u003c/p\u003e\u003cp\u003e\u003cb\u003e你要做的，就是保证货真价实。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e因此，简历的回顾就显得十分重要。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e尤其是项目经历那一块，要确保面试的时候能流畅的表达出细节，如果你说起来支支吾吾，HR会质疑你简历的真实性，直接影响到你面试的结果。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e这里建议用star法则来进行描述。相信大家都不陌生了，之前有高票回答已经说得很详细了\u003c/b\u003e \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://www.zhihu.com/people/2a369772660ff5634dd49adcb034c1d3\" class=\"internal\"\u003e@吴寒笛\u003c/a\u003e\u003c/p\u003e\u003cp\u003e概念就不多赘述了，说说怎么做吧：\u003c/p\u003e\u003cp\u003e其实就是把你的项目经历，用讲故事的方式讲给面试官听。\u003c/p\u003e\u003cp\u003e叙述模式：\u003cb\u003e接到什么任务+如何完成任务+完成的结果如何\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e同时，别忘了多用数据，能让你的回答更有说服力。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e给大家举个例子就明白了：\u003c/p\u003e\u003cp\u003eHR问：“说说你过去一次成功组织活动的经历？”\u003c/p\u003e\u003cp\u003e一般都会这样回答：（无数据，无细节）\u003c/p\u003e\u003cp\u003e\u003cb\u003e“经过努力，我成功举办了大型校园活动，极大的提升了我的组织能力和沟通能力。”\u003c/b\u003e\u003c/p\u003e\u003cp\u003e而用STAR原则会这样回答：（有数据，有细节）\u003c/p\u003e\u003cp\u003e\u003cb\u003e为了筹备诗歌朗诵大赛\u003c/b\u003e（接到任务），\u003cb\u003e我带领15位成员，经过3个月的筹备和1个月的宣传\u003c/b\u003e（完成手段），\u003cb\u003e朗诵大赛参赛人数达200人，观看人数达3000人，占全校10%。\u003c/b\u003e（最终效果）\u003c/p\u003e\u003cp\u003e我TM把自己都说激动了，还搞不定你丫的面试官？！\u003c/p\u003e\u003ch2\u003e\u003cb\u003e4.终极必杀技来啦……\u003c/b\u003e\u003c/h2\u003e\u003cp\u003e先说明一下，这一步一定是建立在：\u003c/p\u003e\u003cp\u003e\u003cb\u003e你聊得很不错，而面试官没有当场告知你面试结果。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e一般在这个情况下，无非两个原因：\u003c/p\u003e\u003cp\u003e\u003cb\u003e1.好几个人面试的感觉都不错，但是岗位有限，面试官在纠结。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e这种情况，面试完成后，可以发个短信给HR，表达感谢的同时，再次表示你对这份工作强烈的渴望（一般公司都更倾向于接受更积极、对工作需求更强烈的人）。\u003c/p\u003e\u003cp\u003e如果你还是不知道如何开口，我已经给你准备好了：\u003c/p\u003e\u003cp\u003e\u003cb\u003exxx你好，我是xxx，首先请原谅我的冒昧。非常感谢您今天上午的面试，您敬业的态度和专业的素养让我折服。xxx公司是我一直向往的公司，xxx工作也是我一直以来的兴趣所在，我自认自己是能够胜任这个岗位的，同时也非常希望公司能给我这个机会，让我与您这样的千千万万的优秀人才一起，实现价值，共创佳绩。不管最后面试的结果如何，谢谢您！谢谢！\u003c/b\u003e\u003c/p\u003e\u003cp\u003e就算是石头，也把他给融化咯！\u003c/p\u003e\u003cp\u003e\u003cb\u003e2.岗位工作强度太大（尤其是对已经有了家室的求职者），担心你干不长久。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e如果是这种情况，就更要发个短信了，打消HR的疑虑。你可以这样说：\u003c/p\u003e\u003cp\u003e\u003cb\u003exxx你好，我是xxx，对于xxx问题，我已经有了妥善的处理。您有顾虑我理解，但是我家人都非常支持我xxx，所以，我会将工作放在第一位，把xxx作为长期的事业来经营，这一点，您完全可以放心。感谢您的面试，我这边等您的好消息。\u003c/b\u003e\u003c/p\u003e\u003chr/\u003e\u003cp\u003e以上，就是学长关于面试的全部心得啦。\u003c/p\u003e\u003cp\u003e如果有启发，还请点个小赞鼓励一下学长哦，听说点赞的童鞋面试必过哦~.~皮一下很开心\u003c/p\u003e\u003cp\u003e希望童鞋们都能早日上岸，找到理想的工作。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic2.zhimg.com/v2-7bde5c13309a0b025ffe5aeabdf729cd_b.jpg\" data-rawwidth=\"519\" data-rawheight=\"307\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"519\" data-original=\"https://pic2.zhimg.com/v2-7bde5c13309a0b025ffe5aeabdf729cd_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;519\u0026#39; height=\u0026#39;307\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"519\" data-rawheight=\"307\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"519\" data-original=\"https://pic2.zhimg.com/v2-7bde5c13309a0b025ffe5aeabdf729cd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-7bde5c13309a0b025ffe5aeabdf729cd_b.jpg\"/\u003e\u003c/figure\u003e\u003cp\u003e\u003cb\u003e小惊喜来啦！如果你想获得更多找工作，做简历，以及面试的技巧，获得更高效的学习方法\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e不用担心，学长都为你准备好了\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e关注个人公众号【墨鱼职场】\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e回复【简历】即可获得学长为你精心挑选的100份精品简历模板。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e回复【职业规划】即可免费获得8年市场总监亲授的职业规划课程，让你不再迷茫。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e回复【好书】即可获得10本学长精心挑选的有趣又实用的电子书。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e另外，同学们有什么具体的困惑，欢迎在留言区积极探讨~\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 4,
+          "thumbnails": [
+            {
+              "data_url": "",
+              "url": "https://pic3.zhimg.com/80/v2-4be06f4a85e22f7cbb96d2d17ed31b77_bh.jpg",
+              "type": "image"
+            },
+            {
+              "data_url": "",
+              "url": "https://pic3.zhimg.com/80/v2-e66489503d1ada7c30a1fcd182cedf04_bh.jpg",
+              "type": "image"
+            },
+            {
+              "data_url": "",
+              "url": "https://pic4.zhimg.com/80/v2-b59cc9f8ad02ce27d2d1cfe6211161e1_bh.jpg",
+              "type": "image"
+            },
+            {
+              "data_url": "",
+              "url": "https://pic3.zhimg.com/80/v2-bad320d095c61aedbce1857be5c026d1_bh.jpg",
+              "type": "image"
+            }
+          ],
+          "type": "thumbnail_info"
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "question": {
+          "id": "290543744",
+          "type": "question",
+          "name": "你有哪些\u003cem\u003e面试\u003c/em\u003e失败的惨痛经验？",
+          "url": "https://api.zhihu.com/questions/290543744"
+        },
+        "author": {
+          "id": "61abfb15b9710c501cb7ad80ded7486f",
+          "url_token": "moshuo-666",
+          "name": "墨说",
+          "headline": "微信公众号:墨鱼职场",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/61abfb15b9710c501cb7ad80ded7486f",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/v2-26e4790b55f90f23afe18e5b565f11a3_s.jpg",
+          "badge": []
+        },
+        "flag": null,
+        "attached_info_bytes": "Oo8BCgtwbGFjZWhvbGRlchIgZTQ5M2I2YjI5ZmE3ZDQ0OWIxY2NjM2JiZGRlZWM3ODkYBCIJMTQyODgyODEzKgk2MjA0ODYwMTkyCDI2ODQyMzQ2OgkyOTA1NDM3NDRKBumdouivlVAAWAFgAZgBAKABBqgBALABAbgBANABzcac5AXYAZC9BOABvwaAAgC4AgA="
+      },
+      "index": 6
+    },
+    {
+      "type": "knowledge_ad",
+      "highlight": {},
+      "object": {
+        "header": {
+          "card_title": ""
+        },
+        "body": {
+          "title": "简历\u003cem\u003e面试\u003c/em\u003e提升课：如何顺利拿下心仪 Offer？",
+          "description": "准备\u003cem\u003e面试\u003c/em\u003e、等待通知⋯⋯其实，我们焦急等待之前，可以系统学习下「\u003cem\u003e面试\u003c/em\u003e力」：改一份好看的简历，然后信心满满地去\u003cem\u003e面试\u003c/em\u003e。如果",
+          "authors": [
+            {
+              "name": "讲者: 张泽",
+              "url_token": "",
+              "bio": "原滴滴、网易产品经理"
+            }
+          ],
+          "images": [
+            "https://pic4.zhimg.com/v2-64e5c6606d401643c450ad9aafd223b2.jpg"
+          ],
+          "can_try": true,
+          "button": {
+            "text": "试听",
+            "url": "https://www.zhihu.com/remix/albums/1116775322988875776?extra_auto_play=1"
+          },
+          "media_type": "UNKNOWN",
+          "content": ""
+        },
+        "footer": "4.9K 热度",
+        "commodity_id": "1116775322988875776",
+        "commodity_type": "album",
+        "url": "https://www.zhihu.com/remix/albums/1116775322988875776",
+        "label": {
+          "text": "",
+          "color": "",
+          "commodity_type": ""
+        },
+        "source": "ADSENSE",
+        "card_version": "1",
+        "slave_url": "",
+        "tab_type": "general",
+        "attached_info_bytes": "OoEDCgtwbGFjZWhvbGRlchIgZTQ5M2I2YjI5ZmE3ZDQ0OWIxY2NjM2JiZGRlZWM3ODkYHCITMTExNjc3NTMyMjk4ODg3NTc3NioBMEoG6Z2i6K+VUABYAWABmAEBoAEHqAEAsAEBgAIAsgKUAnsiY29udGVudF9pZCI6MTExNjc3NTMyMjk4ODg3NTc3NiwiY29udGVudF90eXBlIjoiUmVtaXgiLCJjb250ZW50X3Rva2VuIjowLCJzdWJfY29udGVudF9pZCI6MCwic3ViX2NvbnRlbnRfdHlwZSI6IiIsIm1hdGVyaWFsX2lkIjoxMTQ4MjAyNDY5NTc3Mzc1NzQ0LCJpc19pbnRlcnZlbmUiOnRydWUsInJlY2FsbF9zY29yZSI6MC45OSwicmVjYWxsX3NvdXJjZSI6ImludGVydmVuZSIsInJlY2FsbF9yYW5rIjowLCJpc192aXAiOmZhbHNlLCJpc19hY3Jvc3NfdmVydGljYWwiOmZhbHNlfbgCAA=="
+      },
+      "index": 7,
+      "id": 1116775322988875776
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "力，马上弥补上。 除了自我介绍本身，也欢迎大家通过模拟\u003cem\u003e面试\u003c/em\u003e的方式，提前熟悉\u003cem\u003e应聘\u003c/em\u003e岗位的提问重点。类似于考试押题，知道考点，也提前练习了解题思路，自然胸有成竹",
+        "title": "\u003cem\u003e面试\u003c/em\u003e时怎样自我介绍比较好？"
+      },
+      "object": {
+        "id": "786338372",
+        "type": "answer",
+        "excerpt": "力，马上弥补上。 除了自我介绍本身，也欢迎大家通过模拟\u003cem\u003e面试\u003c/em\u003e的方式，提前熟悉\u003cem\u003e应聘\u003c/em\u003e岗位的提问重点。类似于考试押题，知道考点，也提前练习了解题思路，自然胸有成竹",
+        "url": "https://api.zhihu.com/answers/786338372",
+        "voteup_count": 9232,
+        "comment_count": 68,
+        "created_time": 1565667407,
+        "updated_time": 1574825948,
+        "content": "\u003cp\u003e你好，很高兴作为世界500强HR，分享一下我的经验。\u003c/p\u003e\u003cp\u003e\u003cb\u003e自我介绍不仅仅是自我介绍。答的好，是妥妥的加分项，答的不好，就是自己给自己挖坑。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e要知道，HR会接着你的自我介绍，问很多的问题。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e一个人，是否重视这次面试，是很能够体现在“自我介绍”这个环节的。后面的面试，也许你不好掌控，但自我介绍，完全是你一个人做主，是最能够提前做好准备的。\u003c/p\u003e\u003cp\u003e说实话，临场反应再差的求职者，都可以把自我介绍准备好。\u003c/p\u003e\u003cp\u003e如果你这个环节都说不好，你觉得，面试官又怎么会认为，你重视这次面试，真诚想要加入呢？\u003c/p\u003e\u003ch2\u003e\u003cb\u003e先说具体如何进行自我介绍：\u003c/b\u003e\u003c/h2\u003e\u003cp\u003e\u003cb\u003e3分钟左右。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e请涉及：对面试公司的热爱及了解、过往重点工作经历（匹配求职意向的内容）、简单的未来规划。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e要求更高的同学，建议准备2种。\u003c/p\u003e\u003cp\u003e1、前面讲的3分钟内容。\u003c/p\u003e\u003cp\u003e2、1分钟精简版，适用于群面等时间比较紧的场合。\u003c/p\u003e\u003cp\u003e给一个最近指导的例子，可能比较直观。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-46e6aa021ee3fdc1661747c13ddbe5f2_b.jpg\" data-size=\"normal\" data-rawwidth=\"1017\" data-rawheight=\"338\" class=\"origin_image zh-lightbox-thumb\" width=\"1017\" data-original=\"https://pic3.zhimg.com/v2-46e6aa021ee3fdc1661747c13ddbe5f2_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1017\u0026#39; height=\u0026#39;338\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-size=\"normal\" data-rawwidth=\"1017\" data-rawheight=\"338\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1017\" data-original=\"https://pic3.zhimg.com/v2-46e6aa021ee3fdc1661747c13ddbe5f2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-46e6aa021ee3fdc1661747c13ddbe5f2_b.jpg\"/\u003e\u003cfigcaption\u003e同学根据提示，自己写的\u003c/figcaption\u003e\u003c/figure\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-3cf4c016cf6f53f6a9301d5623769c02_b.jpg\" data-size=\"normal\" data-rawwidth=\"1001\" data-rawheight=\"535\" class=\"origin_image zh-lightbox-thumb\" width=\"1001\" data-original=\"https://pic3.zhimg.com/v2-3cf4c016cf6f53f6a9301d5623769c02_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1001\u0026#39; height=\u0026#39;535\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-size=\"normal\" data-rawwidth=\"1001\" data-rawheight=\"535\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1001\" data-original=\"https://pic3.zhimg.com/v2-3cf4c016cf6f53f6a9301d5623769c02_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-3cf4c016cf6f53f6a9301d5623769c02_b.jpg\"/\u003e\u003cfigcaption\u003e修改后的\u003c/figcaption\u003e\u003c/figure\u003e\u003cp\u003e除了前面说到的模板，内容方向需要注意的是：\u003c/p\u003e\u003cp\u003e\u003cb\u003e1、结合招聘岗位，只讲重点。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e简历内容这么多，实际的你，更有很多很多可以描述的东西。但时间有限，没有面试官会听你说个没完。\u003c/p\u003e\u003cp\u003e根据你求职的岗位，说重点即可。\u003c/p\u003e\u003cp\u003e其实简历制作的原则，也是一样。只是自我介绍时间更短，内容更精华。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e2、有理有据，少说空话。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e如果你说“自己学习能力强”，这就是一句假大空的话。谁都可以说自己学习能力强。\u003c/p\u003e\u003cp\u003e你如果真的在这方面有突出，就要举一个例子，比如是1个月从0到1考了什么证书等。\u003c/p\u003e\u003cp\u003e如果你说自己负责过视频的制作，就要说出来，具体负责了什么。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e3、有开头有结尾，有逻辑。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e开头问候，结尾总结。中间1、2、3条理清楚。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e4、特别提醒。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e自我介绍中的内容，很可能是面试官后续发问的内容。所以，一是要引起重视，讲最重要的，你最想让面试官知道的内容。 而是做好准备，扬长避短，不要给自己挖坑。\u003c/p\u003e\u003cp\u003e比如前面你说自己学习能力强，但是没有举例子。\u003c/p\u003e\u003cp\u003e面试官很可能，顺着你的话问你，怎么证明你学习能力强呢？ 结果你答不上来，或者是非常普通的成绩，根本不能算是“学习能力强”。 那你就是给自己挖坑了。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e其实自我介绍也是每个人各有不同，说起来也只能提供大致的思路。和你具体的求职岗位、经历、个人风格有很大的关系。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e当然，自我介绍只是面试的第一步。后续的回答也非常的重要。\u003c/p\u003e\u003ch2\u003e下面是进阶版：我着重来谈谈，如果在自我介绍后，应对HR的问题。\u003c/h2\u003e\u003cblockquote\u003e（很厉害的内容，建议收藏，面试前再拿出来看看哈哈）\u003c/blockquote\u003e\u003cp\u003e前面说到，自我介绍不是自我介绍本身，是面试的开场。\u003c/p\u003e\u003cp\u003e从这个不一样的角度，帮助大家理解自我介绍，应该说些什么。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e自我介绍后，HR会问你很多问题。如果这些问题，你早有准备，就不会觉得慌乱，不知道说什么好了。\u003c/p\u003e\u003cp\u003e\u003cb\u003e如何回答HR的问题？——万变不离其宗：运用案例进行讲解。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003eHR可能问到你各种奇奇怪怪的问题，但是仔细分析起来，其实也没有多少类具体的问题（根据不同岗位，面试重点不同）。\u003c/p\u003e\u003cp\u003e只是某一类问题，有多种不同的问法而已。\u003c/p\u003e\u003cblockquote\u003e以“学习能力”举例。比如，HR问：\u003cbr/\u003eA、你的学习能力如何？\u003cbr/\u003eB、能否举一个例子，证明你在短时间内，完成了一件你以前并不会的事情？\u003cbr/\u003eC、在以往的工作过程中，你是否有遇到过很有挑战的事情。你是如何应对的？\u003cbr/\u003e\u003cbr/\u003e如果用方式A问你，你一下子就明白了。 但是用B、C来问你，你就不知道说什么好了？\u003cbr/\u003e\u003cb\u003e其实都是同一类问题\u003c/b\u003e（C可以有很多种回答方向，除了学习能力，你也可以回答抗压能力、团队合作能力等。）。\u003cbr/\u003e千万不要干巴巴的说，“我是一个学习能力很强的人”。这也太没有说服力了，谁都可以说自己有学习能力。一定要举出实际例子。\u003cbr/\u003e你都用同一个准备好的，证明你“学习能力”的案例，都能够回答。\u003c/blockquote\u003e\u003cp\u003e\u003cb\u003e这样听起来，是不是就简单了很多？\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e下面说说，如何准备面试所需的案例。\u003c/p\u003e\u003cp\u003e\u003cb\u003e1、案例搜集：\u003c/b\u003e\u003c/p\u003e\u003cp\u003e面试前，建议大家认真梳理自己以往的经历，把各种自己觉得很棒的事例，都一一列举，写下来。\u003c/p\u003e\u003cp\u003e不然等到面试时，再来想，很容易脑子卡壳，一下子想不到特别好的。\u003c/p\u003e\u003cp\u003e一开始只需要把所有想到的，都写下来。\u003c/p\u003e\u003cblockquote\u003e思考方式：想不出来的时候，可以根据岗位需求，通过4个问题来寻找素材，准备案例\u003cbr/\u003e——我有没有这样的经历？\u003cbr/\u003e——当时是怎么做到的？（或者为什么没有成功？）\u003cbr/\u003e——我为什么要这么做？\u003cbr/\u003e——是如何确保实现的？（或者给我带来了什么收获？）\u003c/blockquote\u003e\u003cp\u003e\u003cb\u003e3、案例归纳：\u003c/b\u003e\u003c/p\u003e\u003cp\u003e对案例进行分类，看看这个案例，可以用于证明自己哪类方面的特质。\u003c/p\u003e\u003cp\u003e注意，最后你整理出来的案例，数量不一定多，\u003cb\u003e3-5个足够了\u003c/b\u003e。\u003c/p\u003e\u003cp\u003e（比如1个证明你学习能力强，1个证明团队协作强，1个证明逻辑思维缜密等。 根据不同的求职方向，准备的案例方向会有所不同）。\u003c/p\u003e\u003cp\u003e（如果你不清楚到底应该准备哪些方面的案例，欢迎私信我）\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e回答此类问题时，你举的案例一定具有以下特质\u003c/b\u003e：\u003c/p\u003e\u003cp\u003e\u003cb\u003e1）真实（可以适当美化）\u003c/b\u003e。\u003c/p\u003e\u003cp\u003e你需要通过讲故事的方式，在面试时来阐述这个案例。所以真实是首要基础。并且真实的经历，才能避免HR追问细节时，你回答不上来。\u003c/p\u003e\u003cp\u003e\u003cb\u003e2）恰当。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e你需要识别时，HR为什么问你这个问题（我前面已经回答了）。\u003c/p\u003e\u003cp\u003e然后，从你准备好的案例中，选择一个恰当的。\u003c/p\u003e\u003cblockquote\u003e同样是“学习能力”案例举例：\u003cbr/\u003e例如有的候选人面试技术岗位，说到学习能力，虽然也可以举滑冰的例子，但是滑冰的学习能力，主要体现在肢体协调性。和技术岗位的脑力学习能力，还是有比较大的差别的。\u003cbr/\u003e这种情况，最好是举技术方面的例子。\u003cbr/\u003e比如多少时间内，从0开始，你是如何学习了一种新的语言/算法（看书、查询网络、收集经典案例、咨询前辈、从简单程序开始尝试、不断试错并总结……），然后是如何完成了一个什么样的程序开发。（一般情况下，别的人需要多少时间才能完成，但是你只用了多少时间就完成了。）\u003c/blockquote\u003e\u003cp\u003e\u003cb\u003e3）回答时，注意逻辑和总结。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e虽然案例是你早就准备好的，但是也不要像背课文一样。\u003c/p\u003e\u003cp\u003e听到HR提问后，可以稍微停顿几秒，表示你在思考。\u003c/p\u003e\u003cp\u003e然后用讲故事的方法，娓娓道来。\u003c/p\u003e\u003cp\u003e结尾时，可以加一些总结。\u003c/p\u003e\u003cp\u003e比如，我知道我自己在XX方面，可能经验不是非常足，但是我能通过学习，并且付出比其他人更多的努力，马上弥补上。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e除了自我介绍本身，也欢迎大家通过模拟面试的方式，提前熟悉应聘岗位的提问重点。类似于考试押题，知道考点，也提前练习了解题思路，自然胸有成竹，能够有更好的发挥。\u003c/p\u003e\u003cp\u003e如果需要一对一的指导，欢迎联系我。\u003c/p\u003e\u003cp\u003e以上。\u003c/p\u003e\u003cp\u003e如有帮助，请点赞，欢迎收藏，面试前拿出来看看，能够帮助到你。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e分享我的 live 讲座《颠覆你认知的 “谈薪潜规则”》，你必须知道的潜规则，薪资涨幅1万+：\u003c/p\u003e\u003ca href=\"https://www.zhihu.com/lives/1175488714674065408\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-27b5eb51675086efa863c55778edd6fd_ipico.jpg\" data-image-width=\"2140\" data-image-height=\"2140\" class=\"internal\"\u003e颠覆你认知的 “谈薪潜规则”\u003c/a\u003e\u003cp\u003e——————————————————————\u003cbr/\u003e\u003cb\u003e求职问题，欢迎查看我的主页，联系我。\u003c/b\u003e\u003cbr/\u003e职业生涯规划、简历优化、简历定制、面试+谈薪指导、offer选择等。\u003c/p\u003e\u003cp\u003e\u003cb\u003e关注公众号：简历坊\u003c/b\u003e\u003cbr/\u003e回复关键词：\u003c/p\u003e\u003cblockquote\u003e\u003cb\u003e面试：\u003c/b\u003e获得70个面试常踩的知识点\u003cbr/\u003e\u003cb\u003e校招：\u003c/b\u003e获取2019年各公司校招日历\u003cbr/\u003e\u003cb\u003e模板：\u003c/b\u003e获取一封中英文简历的标准模板\u003cbr/\u003e\u003cb\u003e薪酬：\u003c/b\u003e获取《2019人才市场洞察及薪酬指南》、《2018毕业生薪酬调研报告》和《2018城市薪酬差异系数报告》\u003cbr/\u003e\u003cbr/\u003e让工作多一点美好，希望成为你职场路上最真诚的朋友！\u003c/blockquote\u003e",
+        "thumbnail_info": {
+          "count": 2,
+          "thumbnails": [
+            {
+              "data_url": "",
+              "url": "https://pic4.zhimg.com/80/v2-46e6aa021ee3fdc1661747c13ddbe5f2_bh.jpg",
+              "type": "image"
+            },
+            {
+              "data_url": "",
+              "url": "https://pic4.zhimg.com/80/v2-3cf4c016cf6f53f6a9301d5623769c02_bh.jpg",
+              "type": "image"
+            }
+          ],
+          "type": "thumbnail_info"
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "question": {
+          "id": "20602526",
+          "type": "question",
+          "name": "\u003cem\u003e面试\u003c/em\u003e时怎样自我介绍比较好？",
+          "url": "https://api.zhihu.com/questions/20602526"
+        },
+        "author": {
+          "id": "283f5c7c7441cc1a1461b1f1198a0b28",
+          "url_token": "xia-gu-niang-66",
+          "name": "夏姑娘",
+          "headline": "世界500强HR，求职问题答疑 微信okqiuzhi",
+          "gender": 0,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/283f5c7c7441cc1a1461b1f1198a0b28",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-27b5eb51675086efa863c55778edd6fd_s.jpg",
+          "badge": []
+        },
+        "flag": {
+          "flag_type": "roundtable",
+          "flag_text": ""
+        },
+        "attached_info_bytes": "OpkBCgtwbGFjZWhvbGRlchIgZTQ5M2I2YjI5ZmE3ZDQ0OWIxY2NjM2JiZGRlZWM3ODkYBCIJMTczMDM3NjIxKgk3ODYzMzgzNzIyBjQyMTQyNzoIMjA2MDI1MjZKBumdouivlVAAWAFgAZgBAKABCKgBALABAbgBAMIBDOWchuahjOaUtuW9ldABz+DI6gXYAZBI4AFEgAIAuAIA"
+      },
+      "index": 8
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "\u003cem\u003e面试\u003c/em\u003e自我介绍虽然人人都准备，但是做到让人印象深刻可不容易啊。本篇就具体来聊聊人人都要经历的\u003cem\u003e面试\u003c/em\u003e，怎么做自我介绍，才能让你在面试官的眼睛里－－－－像金子一样闪闪发光",
+        "title": "\u003cem\u003e面试\u003c/em\u003e自我介绍5句话公式"
+      },
+      "object": {
+        "id": "24133177",
+        "title": "\u003cem\u003e面试\u003c/em\u003e自我介绍5句话公式",
+        "type": "article",
+        "url": "https://api.zhihu.com/articles/24133177",
+        "excerpt": "\u003cem\u003e面试\u003c/em\u003e自我介绍虽然人人都准备，但是做到让人印象深刻可不容易啊。本篇就具体来聊聊人人都要经历的\u003cem\u003e面试\u003c/em\u003e，怎么做自我介绍，才能让你在面试官的眼睛里－－－－像金子一样闪闪发光",
+        "voteup_count": 8187,
+        "comment_count": 114,
+        "created_time": 1480722633,
+        "updated_time": 1480722632,
+        "content": "\u003cp\u003e面试自我介绍虽然人人都准备，但是做到让人印象深刻可不容易啊。本篇就具体来聊聊人人都要经历的面试，怎么做自我介绍，才能让你在面试官的眼睛里－－－－像金子一样闪闪发光？\u003c/p\u003e\u003cstrong\u003e面试是什么？\u003c/strong\u003e\u003cp\u003e它是个机会，让面试官更进一步确认你是他们需要的人，你进一步展现你的交际沟通能力。\u003c/p\u003e\u003cp\u003eSo\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e一定一定要记住，自己是在跟人打交道，而不是对机器答问题哦。\u003c/strong\u003e\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e首先，为啥面试官要提这个问题呢？简历里面不是写的好清楚好详细了吗？讲真，就有小伙伴萌萌地向面试官提出过这个问题，当然下场是杯具地一题没答就拎包回家啦。\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e其实呢，这个问题，咳咳咳，以资深面试官苏三同学的经验，主要是\u003cstrong\u003e给面试官一个缓冲的时间来重新熟悉你的简历\u003c/strong\u003e。\u003c/p\u003e\u003cp\u003e所以，小伙伴们要通过自我介绍提醒面试官，\u003cstrong\u003e你的特点和你为什么特别合适这个职位\u003c/strong\u003e。\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e面试自我介绍，要：\u003c/p\u003e\u003cp\u003e遵守极简原则，突出重点，忽略细节。\u003c/p\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cstrong\u003e极简自我介绍5句话公式 ＝1+3+1\u003c/strong\u003e\u003cbr/\u003e\u003cp\u003e\u003cstrong\u003e时间控制在1分钟，写在纸上就是120－160个字，包括5句话：\u003c/strong\u003e\u003c/p\u003e1. 我是谁 （1句话）\u003cp\u003e名字发音要字字清晰，重音放在最后一个字。比如：我是\u003cstrong\u003e苏\u003c/strong\u003e三vs.我是苏\u003cstrong\u003e三\u003c/strong\u003e，强调前面一个字，后面的字就弱掉了，没有气势；强调后面的字则不同，结尾重音让人感觉更有自信。\u003c/p\u003e\u003cbr/\u003e2.我的三个亮点，最近最相关的经历？（3句话）\u003cbr/\u003e\u003cp\u003e要展现有事实支撑的技能（也就是老外随时挂在嘴上念叨的“proven record”）,你对工作的热情（passion）。\u003c/p\u003e\u003cbr/\u003e\u003cbr/\u003e3. 我为什么想要这份工作？（1句话）\u003cbr/\u003e\u003cp\u003e要结合这个工作的要求来讲，你怎么认为这个工作适合你，或者你为什么胜任这个工作，这点非常非常重要！因为没有这句话，你的自我介绍很容易结束在某个细节的陈述上，面试官形不成对你的整体评价。\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e同时，自我介绍结束的地方就是面试正式开始的地方。停在细节上，面试官就容易将这个细节作为切入点，深入问下去，如果答不上来。。必然惨不忍睹。讲真，没有人样样精通，没有人有三头六臂，有些薄弱的地方是很正常的，面试官也知道这一点，所以扬长避短，通过自我介绍把话题引向你最有自信的地方。\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e好了，下面咱们看例子。\u003c/p\u003e\u003cp\u003e1. 我是思南。毕业于上海大学电信专业。曾先后任职于华为，中兴等大公司，担任电子工程师。曾负责/参与过若干项国家级项目。在公司中曾获得过先进个人等荣誉/奖项。现在应聘贵公司高级工程师岗位，希望能得到这个宝贵的机会，非常感谢！\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e这个例子怎么样呢？\u003c/p\u003e\u003cp\u003e首先，没有突出亮点，是简历的简单复述，而不是提纲式的总结。\u003c/p\u003e\u003cp\u003e其次，没有将自己跟岗位做一个好的匹配。\u003c/p\u003e\u003cp\u003e再次，“希望能得到这个宝贵的机会，非常感谢！” 跟“希望我们以后大学四年好好相处，友谊天长地久”一样的浪费时间。 \u003c/p\u003e\u003cbr/\u003e\u003cp\u003e您好！我是苏三。我在新加坡南洋理工大学取得了语言学博士学位。曾在美国康奈尔大学和南加州大学商学院担任访问学者。在国内外高校及培训机构教授语言及跨文化课程长达九年时间。最近我致力于利用微信平台写作，将语言学知识运用到生活和工作中，帮助大家更好的进行人际沟通和互动。拥有丰富的教学经验和对语言互动的钻研热情，我期待能在贵公司发挥我的特长和专业，与公司共同成长！\u003c/p\u003e\u003cp\u003e这个例子，各项都符合极简5句话公式，不错不错！（自卖自夸，捂脸）\u003c/p\u003e\u003cbr/\u003e\u003ch3\u003e两个不要：\u003c/h3\u003e\u003ch3\u003e1. 重复叙述简历\u003c/h3\u003e\u003cp\u003e面试官要的不是简单重复，而是期待你给出简历的“中心思想”和 “提纲”\u003c/p\u003e\u003cbr/\u003e\u003ch3\u003e2. 太谦虚＝太心虚 \u003c/h3\u003e\u003cp\u003e过分谦虚非会让面试官认为你能力不足，产生负面反馈\u003c/p\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cp\u003e准备好5句话公式，那么接下来，就是\u003c/p\u003e\u003ch1\u003e练习练习再练习！\u003c/h1\u003e\u003cp\u003e话说乔帮主在世的时候每页ppt都要演练好几个小时，剪掉一切没有用的词，做到极简；至今苹果公司上上下下做报告做总结，仍然是：Rule No1 废话全删掉！No2不练够十小时不要上台！\u003c/p\u003e\u003ch1\u003e\u003cstrong\u003e请：\u003c/strong\u003e\u003c/h1\u003e\u003cp\u003e\u003cstrong\u003e大声读自我介绍记住自我介绍的重点和顺序。\u003c/strong\u003e\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e\u003cstrong\u003e背诵自我介绍，直到听起来很自然，就像平时说话一样。熟能生巧！\u003c/strong\u003e\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e\u003cstrong\u003e练习做自我介绍几次，直到听起来不像背的。要点：有节奏，有停顿，有起伏。\u003c/strong\u003e\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e绝招：\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003e1.跟有经验的朋友做练习，让朋友像面试官一样给你反馈。\u003c/strong\u003e\u003c/h3\u003e\u003cbr/\u003e\u003ch3\u003e\u003cstrong\u003e2. 用手机把练习过程录下来，回放对照，改正，比照镜子练习更管用，适用于各种面试模拟演练。\u003c/strong\u003e\u003c/h3\u003e\u003cbr/\u003e\u003cp\u003e最后提醒大家，自我介绍不能一劳永逸，要针对每个面试具体地改改改，练练练！\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e\u003cstrong\u003e·END·\u003c/strong\u003e\u003cbr/\u003e\u003c/p\u003e\u003cbr/\u003e\u003cstrong\u003e语言就是力量\u003c/strong\u003e\u003cbr/\u003e\u003cp\u003e好好说话 · 天天向上\u003c/p\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cp\u003e长按二维码关注苏三哦!\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": ""
+        },
+        "author": {
+          "id": "c2a66b14990f1c5572358fb5e025fc57",
+          "url_token": "susan-dong1",
+          "name": "苏三",
+          "headline": "语言就是力量",
+          "gender": 0,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/c2a66b14990f1c5572358fb5e025fc57",
+          "type": "people",
+          "avatar_url": "https://pic1.zhimg.com/50/v2-60e6c39b4f6c11db2416e5bb1b3f06fe_s.jpg",
+          "badge": [
+            {
+              "type": "identity",
+              "description": "语言学博士",
+              "topics": []
+            }
+          ]
+        },
+        "voting": 0,
+        "relationship": {
+          "is_voted": false,
+          "is_author": false
+        },
+        "flag": null,
+        "attached_info_bytes": "OnUKC3BsYWNlaG9sZGVyEiBlNDkzYjZiMjlmYTdkNDQ5YjFjY2MzYmJkZGVlYzc4ORgHIgcxODM5NzQ1KggyNDEzMzE3N0oG6Z2i6K+VUABYAWABmAEAoAEJqAEAsAEBuAEA0AHJkYjCBdgB+z/gAXKAAgC4AgA="
+      },
+      "index": 9
+    },
+    {
+      "type": "knowledge_result",
+      "highlight": {},
+      "object": {
+        "header": {
+          "card_title": ""
+        },
+        "body": {
+          "title": "\u003cem\u003e面试\u003c/em\u003e中，HR一般会问什么问题？",
+          "description": "盐选推荐：你可能会遇到的两难困境你得到了\u003cem\u003e面试\u003c/em\u003e机会。一份渴望已久的工作。\u003cem\u003e面试\u003c/em\u003e官问了你 3 个问题：问题 1：「你最大的弱点是什么？」问题 2：",
+          "authors": [
+            {
+              "name": "盐选推荐",
+              "url_token": ""
+            }
+          ],
+          "images": [],
+          "can_try": false,
+          "button": {
+            "text": "",
+            "url": ""
+          },
+          "media_type": "UNKNOWN",
+          "content": "你可能会遇到的两难困境你得到了面试机会。一份渴望已久的工作。面试官问了你 3 个问题：问题 1：「你最大的弱点是什么？」问题 2：「如果我们公司这次没有录取你，但过一段时间，假如被录取的人中有没能通过试用期的，我们再通知你，你还会再来吗？」问题 3：「你的期望薪资是多少？」你该如何回答呢？问题 1：如实回答，会自行扣分；说「我最大的优点就是追求完美」之类的话，虚伪扣分；找一个无足轻重的内容，回避问题扣分。问题 2：回答「愿意」，显得挺廉价没地位；回答「不愿意」，又怕失去机会。问题 3：答少了，自己吃亏；答多了，怕被拒绝。在求职中，你是否也总会遇到以上这种两难问题？可能这才是面试的真相哈佛大学心理学系的 Frank Bernieri 与 Neha Gada-Jain 共同进行过一次实验。他们对两位面试官进行了为期 6 周的招聘培训。然后，让他们对 98 人进行面试，每次面试时间为 15-20 分钟。随后，对于每一次面试，他们剪辑出前 15 秒的片段。这些片段显示求职者进入房间、与面试官握手、坐下的场景，没有其他内容。另外一群志愿者会根据这前 15 秒的剪辑内容，对面试者进行打分。然而，志愿者们根据前 15 秒剪辑内容打分的结果，和两位受训了 6 周的面试官，在进行了 15-20 分钟面试后的结果，在统计上，有强烈的正相关性。换句话说，这前 15 秒的感觉，通常就决定了最后的面试结果，后面各种交谈，多数可能成了走过场。这是普遍的现象吗？感觉胜于理智很多公司的负责人会告诉你，他们的招聘流程是严谨的，面试官经过专业的训练，懂得如何科学地甄选人才。这是真的吗？在《韩非子·说难》中，记载了《智子疑邻》的故事：宋国有一个富人，因下大雨，墙毁坏了。富人的儿子说：「如果不赶紧修补它，一定会有盗贼进来。」邻居家的老人也这样说。这天晚上富人果然丢失了很多钱财，富人认为自己的儿子很聪明，却怀疑财物是被邻居家的老人给偷去了。在销售领域，有一句话解释这个现象：「People make emotional decisions and look for rational reasons.」中文是说：「人们首先做出感性的决策，然后为它寻找理性的理由。」我参加过多次无领导小组模拟面试，其中的面试官，通常是来自顶级 500 强公"
+        },
+        "footer": "29 赞同",
+        "commodity_id": "0",
+        "commodity_type": "paid_answer",
+        "url": "https://www.zhihu.com/question/294078513/answer/725954650",
+        "label": {
+          "text": "选自电子书",
+          "color": "grey",
+          "commodity_type": "publication"
+        },
+        "source": "DEFAULT",
+        "card_version": "1",
+        "slave_url": "https://www.zhihu.com/question/294078513/answer/725954650",
+        "attached_info_bytes": "OsADCgtwbGFjZWhvbGRlchIgZTQ5M2I2YjI5ZmE3ZDQ0OWIxY2NjM2JiZGRlZWM3ODkYBCIJMTYyMDYwMDk4Kgk3MjU5NTQ2NTAyCDI3NjI4MDU4OgkyOTQwNzg1MTNKBumdouivlVAAWAFgAZgBAKABCqgBALABAbgBANABrdfB6AXYAR3gAQCAAgCyAp8CeyJjb250ZW50X2lkIjoxNjIwNjAwOTgsImNvbnRlbnRfdHlwZSI6IlBhaWRBbnN3ZXIiLCJjb250ZW50X3Rva2VuIjowLCJzdWJfY29udGVudF9pZCI6MCwic3ViX2NvbnRlbnRfdHlwZSI6IiIsIm1hdGVyaWFsX2lkIjowLCJpc19pbnRlcnZlbmUiOmZhbHNlLCJyZWNhbGxfc2NvcmUiOjAuODkyNTczNjQwOTU1Mzk0LCJyZWNhbGxfc291cmNlIjoiUEFJRF9BTlNXRVJfRVNfQ09BUlNFX0dSQUlORUQiLCJyZWNhbGxfcmFuayI6MCwiaXNfdmlwIjpmYWxzZSwiaXNfYWNyb3NzX3ZlcnRpY2FsIjpmYWxzZX24AgDSAg4IARIKUGFpZEFuc3dlcg==",
+        "answer_obj": {
+          "id": "725954650",
+          "type": "answer",
+          "excerpt": "你可能会遇到的两难困境\n你得到了\u003cem\u003e面试\u003c/em\u003e机会。\n一份渴望已久的工作。\n\u003cem\u003e面试\u003c/em\u003e官问了你 3 个问题：\n问题 1：「你最大的弱点是什么？」\n问题 2：「如果我们公司这次没有录取你，但过一段时间，假如被录取的人中有没能通过试用期的，我们再通知你，你还会再来吗？」\n问题 3：「你的期望薪资是多少？」\n你该如何回答呢？\n问题 1：如实回答，会自行扣分；说「我最大的优点就是追求完美」之类的话，虚伪扣分；找一个无足轻重的内容，回避问题扣分。\n问题 2：回答「愿意」，显得挺廉价没地位；回答「不愿意」，又怕失去机会。\n问题 3：答少了，自己吃亏；答多了，怕被拒绝。\n在求职中，你是否也总会遇到以上这种两难问题？\n可能这才是\u003cem\u003e面试\u003c/em\u003e的真相\n哈佛大学心理学系的 Frank Bernieri 与 Neha Gada-Jain 共同进行过一次实验。\n他们对两位\u003cem\u003e面试\u003c/em\u003e官进行了为期 6 周的招聘培训。然后，让他们对 98",
+          "url": "https://api.zhihu.com/answers/725954650",
+          "voteup_count": 29,
+          "comment_count": 0,
+          "created_time": 1561357229,
+          "updated_time": 1561357229,
+          "content": "\u003ch3\u003e你可能会遇到的两难困境\u003c/h3\u003e\n\u003cp\u003e你得到了面试机会。\u003c/p\u003e\n\u003cp\u003e一份渴望已久的工作。\u003c/p\u003e\n\u003cp\u003e面试官问了你 3 个问题：\u003c/p\u003e\n\u003cp\u003e问题 1：「你最大的弱点是什么？」\u003c/p\u003e\n\u003cp\u003e问题 2：「如果我们公司这次没有录取你，但过一段时间，假如被录取的人中有没能通过试用期的，我们再通知你，你还会再来吗？」\u003c/p\u003e\n\u003cp\u003e问题 3：「你的期望薪资是多少？」\u003c/p\u003e\n\u003cp\u003e你该如何回答呢？\u003c/p\u003e\n\u003cp\u003e问题 1：如实回答，会自行扣分；说「我最大的优点就是追求完美」之类的话，虚伪扣分；找一个无足轻重的内容，回避问题扣分。\u003c/p\u003e\n\u003cp\u003e问题 2：回答「愿意」，显得挺廉价没地位；回答「不愿意」，又怕失去机会。\u003c/p\u003e\n\u003cp\u003e问题 3：答少了，自己吃亏；答多了，怕被拒绝。\u003c/p\u003e\n\u003cp\u003e在求职中，你是否也总会遇到以上这种两难问题？\u003c/p\u003e\n\u003ch3\u003e可能这才是面试的真相\u003c/h3\u003e\n\u003cp\u003e哈佛大学心理学系的 Frank Bernieri 与 Neha Gada-Jain 共同进行过一次实验。\u003c/p\u003e\n\u003cp\u003e他们对两位面试官进行了为期 6 周的招聘培训。然后，让他们对 98 人进行面试，每次面试时间为 15-20 分钟。\u003c/p\u003e\n\u003cp\u003e随后，对于每一次面试，他们剪辑出前 15 秒的片段。这些片段显示求职者进入房间、与面试官握手、坐下的场景，没有其他内容。\u003c/p\u003e\n\u003cp\u003e另外一群志愿者会根据这前 15 秒的剪辑内容，对面试者进行打分。\u003c/p\u003e\n\u003cp\u003e然而，志愿者们根据前 15 秒剪辑内容打分的结果，和两位受训了 6 周的面试官，在进行了 15-20 分钟面试后的结果，在统计上，有强烈的正相关性。\u003c/p\u003e\n\u003cp\u003e换句话说，这前 15 秒的感觉，通常就决定了最后的面试结果，后面各种交谈，多数可能成了走过场。\u003c/p\u003e\n\u003cp\u003e这是普遍的现象吗？\u003c/p\u003e\n\u003cul\u003e\u003cli\u003e\u003cstrong\u003e感觉胜于理智\u003c/strong\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e很多公司的负责人会告诉你，他们的招聘流程是严谨的，面试官经过专业的训练，懂得如何科学地甄选人才。\u003c/p\u003e\n\u003cp\u003e这是真的吗？\u003c/p\u003e\n\u003cp\u003e在《韩非子·说难》中，记载了《智子疑邻》的故事：\u003c/p\u003e\n\u003cp\u003e宋国有一个富人，因下大雨，墙毁坏了。富人的儿子说：「如果不赶紧修补它，一定会有盗贼进来。」邻居家的老人也这样说。这天晚上富人果然丢失了很多钱财，富人认为自己的儿子很聪明，却怀疑财物是被邻居家的老人给偷去了。\u003c/p\u003e\n\u003cp\u003e在销售领域，有一句话解释这个现象：「People make emotional decisions and look for rational reasons.」\u003c/p\u003e\n\u003cp\u003e中文是说：「人们首先做出感性的决策，然后为它寻找理性的理由。」\u003c/p\u003e\n\u003cp\u003e我参加过多次无领导小组模拟面试，其中的面试官，通常是来自顶级 500 强公\u003c/p\u003e",
+          "thumbnail_info": {
+            "count": 1,
+            "thumbnails": [
+              {
+                "data_url": "",
+                "url": "https://pic1.zhimg.com/80/v2-a683c2ac9f4cf59eb330233669dd3775_bh.jpg",
+                "type": "image"
+              }
+            ],
+            "type": "thumbnail_info"
+          },
+          "relationship": {
+            "voting": 0,
+            "is_author": false,
+            "is_thanked": false,
+            "is_nothelp": false
+          },
+          "question": {
+            "id": "294078513",
+            "type": "question",
+            "name": "\u003cem\u003e面试\u003c/em\u003e中，HR一般会问什么问题？",
+            "url": "https://api.zhihu.com/questions/294078513"
+          },
+          "author": {
+            "id": "f508f14833f52639e8c2dbbbff7d8933",
+            "url_token": "zhujiangren",
+            "name": "盐选推荐",
+            "headline": "为你推荐知乎优质付费内容",
+            "gender": -1,
+            "is_followed": false,
+            "is_following": false,
+            "user_type": "people",
+            "url": "https://api.zhihu.com/people/f508f14833f52639e8c2dbbbff7d8933",
+            "type": "people",
+            "avatar_url": "https://pic3.zhimg.com/50/v2-b15cd385aec8269858297ea031b8707d_s.jpg",
+            "badge": [
+              {
+                "type": "identity",
+                "description": "知乎 官方帐号",
+                "topics": []
+              }
+            ]
+          },
+          "flag": null,
+          "attached_info_bytes": "OoABCgtwbGFjZWhvbGRlchIgZTQ5M2I2YjI5ZmE3ZDQ0OWIxY2NjM2JiZGRlZWM3ODkYBCIJMTYyMDYwMDk4Kgk3MjU5NTQ2NTAyCDI3NjI4MDU4OgkyOTQwNzg1MTNKBumdouivlVAAWAFgAZgBANABrdfB6AXYAR3gAQCAAgC4AgA="
+        }
+      },
+      "index": 10,
+      "id": 162060098
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "如果是第一次\u003cem\u003e面试\u003c/em\u003e的同学，不要紧张，每个人都有第一次，多跑几次\u003cem\u003e面试\u003c/em\u003e就啥都清楚了，我也是被拒绝了好多次。欲哭无泪。业内称我 [面 试 先锋 ] ; 我都成\u003cem\u003e面试\u003c/em\u003e凉白开了，所以请大家认真看",
+        "title": "怎么判断自己\u003cem\u003e面试\u003c/em\u003e是不是凉了？"
+      },
+      "object": {
+        "id": "711879897",
+        "type": "answer",
+        "excerpt": "如果是第一次\u003cem\u003e面试\u003c/em\u003e的同学，不要紧张，每个人都有第一次，多跑几次\u003cem\u003e面试\u003c/em\u003e就啥都清楚了，我也是被拒绝了好多次。欲哭无泪。业内称我 [面 试 先锋 ] ; 我都成\u003cem\u003e面试\u003c/em\u003e凉白开了，所以请大家认真看",
+        "url": "https://api.zhihu.com/answers/711879897",
+        "voteup_count": 564,
+        "comment_count": 45,
+        "created_time": 1560232508,
+        "updated_time": 1563546586,
+        "content": "\u003cp\u003e大家不要只收藏，忘记点赞哦、文章收藏过千，点赞寥寥无几，谢谢\u003c/p\u003e\u003cp\u003e\u003cb\u003e久经沙场的我来谈谈我的小小经验（这都是血与泪的教训）；\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003eHR就经常问我这些问题，所以我就先说一下，希望大家不要走我的老路，天真的以为没有套路，自古套路得人心。大家根据自己的实际情况借鉴\u003c/b\u003e一下\u003cb\u003e就行，只说实际自己参加各大小战役的经验之谈，如果某位大神还有更加纯粹的建议请下方评论让我学习学习下为以后做准备。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e如果是第一次面试的同学，不要紧张，每个人都有第一次，多跑几次面试就啥都清楚了，我也是被拒绝了好多次。欲哭无泪。业内称我  [面  试   先锋  ] ;\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e我都成面试凉白开了，所以请大家认真看;\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003eps(因为我有个HR的朋友，）\u003c/b\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003e请做下自我介绍？\u003c/b\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e回答：不能做平常回答，只说姓名、年龄、爱好、工作经验之类的因为这些在你的简历上HR都可以看得出来。\u003c/p\u003e\u003cp\u003e企业是想知道你是否能胜任这份工作你的最强技能，你的独特优势，性格还有做过最成功的事，主要是成就。要突出自己做事的积极性和做事能力及思维方式 ，要说的合情合理企业才会相信。因为他们久经沙场什么人都见过。\u003cb\u003e记得要有礼貌，在回答完每个问题后都加上句“谢谢”\u003c/b\u003e我们是有素质的人。\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003e你觉得你的个性最大的优点是什么？\u003c/b\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e回答：记得要沉着冷静，条理清楚，立场坚定的说出自己的亮点，但不要过于死板适当的加入活血化瘀元素也就是要有幽默感，亲切感，拿出自己乐观积极向上的态度回答这个问题。\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003e说说你的缺点？\u003c/b\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e回答：不要太直白的回答像什么小心眼、嫉妒心强、拍马屁、好吃懒做等等诸如此类真实的问题千万不要说要不然您老就被OUT了。要缩小自己的缺点人无完人每个人都有缺点但是不要过于夸大自己打亮点，吹牛要打草稿。你要优缺一起说进行翻转，这样HR会忽略你的小部分缺点记住你的优点。企业喜欢聪明的求职者。\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003e你对加班的看法\u003c/b\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e回答：现在加班实属正常现象，不要说不想，也不能说想太虚伪了。好多公司面试的时候说是要加班但未必真的每天都加，只是说有可能，如果你在时间内做完了工作还需要加班吗？所以如果面试通过了尽量提高自己的工作效率。\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003e你对薪资的要求？\u003c/b\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e回答：不能太虚伪，说什么自己工资什么的无所谓只是想学习，那样会贬低自己的价值。如果你对要求很高但你实力达不到，那就是赤果果的打脸，公司都不敢收，每个公司对于这方面都是提前商量好的，所以尽量按招聘薪资要求说高点这要自己满意公司也觉得合理，\u003cb\u003e重点是不要太虚伪。\u003c/b\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003e你的职业规划是什么。你对你未来3-5年发展的规划是怎么考虑的？\u003c/b\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e回答：这里的主要考察点是你有没有上进心，拼搏精神，如果你回答“不知道”——拜拜您老就真得OUT了。吹牛都比这个回答好，好吗？我这里不是让大家吹牛啊，只是举例。你应该要在面试前了解这个岗位行业的晋升路线，\u003cb\u003e[不想当将军的士兵不是好士兵]\u003c/b\u003e最好的就说说按照公司的管理思路发展谈些相关的职业规划。\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003e说说你对行业的技术的发展趋势你的看法是什么？\u003c/b\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e回答：只要有备而来的求职者都可以回答过关。你要提前做好准备在网上搜索相关行业的发展史，根据现实说出自己的看法。因为面试官不会因为你的看法而改变什么，所以大胆的说不能怂，HR主要观察你的思维方式是怎样的，来判断你的潜力，每个好的管理者都有自己的全局观，当然这里只是思维，因为全局观要在工作中去实现，\u003cb\u003e[不在其位，不谋其政]\u003c/b\u003e。\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003e就你申请此岗位你还欠缺什么？\u003c/b\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e回答：HR喜欢问求职者的弱点，但是 还是那句话不要死板，尽量说自己的优点其中夹杂着小小的大家都明白的缺点，比如工作经验，当你入职了不就是你积累经验的时候吗？体现自己的学习能力很强，自己一点会在短时间内进入状态，满分回答。\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003e为什么选择我们这家公司\u003c/b\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e回答：一定要提前了解这家公司，根据实际说，要不然你会死的很惨，你难道相信HR不了解自己所在公司吗？公司的优点就是你的认可点，听到有人夸自己所在的公司，你难道不高兴吗？\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003e除了本公司你还选择了哪家公司？\u003c/b\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e回答：这是好多公司都会问的，根据实际情况就行，不便说公司名字大概说下某某某广告公司之类的要贴合自己的目标行业，要不然HR会对你产生不信任感，此问用意只是大概了解下求职者的志向，毕竟同行业多少都会了解。\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003e你盆友对你的而评价？\u003c/b\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e回答：公司主要是想了解下你的性格和人际相处；都说优点\u003c/p\u003e\u003cp\u003e举例，我朋友都说我是个可以信赖的人，因为我[一言既出驷马难追]答应的事一定会想办法完成，做不到就不会轻易许诺。（体现你的责任感很强）\u003c/p\u003e\u003cp\u003e自己是一个比较随和的人，有什么人都可以相交甚欢，总能摄生处地的为别人考虑所以朋友很多。（体现了你的交际能力）\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cb\u003e你还有什么想问的吗？\u003c/b\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e回答：不要以为这是个可有可无的话题，其实很关键，因为这里注重你的个性和创新能力。\u003c/p\u003e\u003cp\u003e这样问很加分哦，比如贵公司对新员工有什么培训项目，我要怎样才可以参加？贵公司的晋升路线是什么机制是怎样的的，像这类问题他们是很乐意被提问的。\u003c/p\u003e\u003cp\u003e哈喽盆友们满满的干货自己亲身 经历。每天风餐露宿只为大家都能找到好工作而奔波，\u003c/p\u003e\u003cp\u003e在此请大家帮个小忙点个爱心赞，加个关注让更多的人看到、\u003c/p\u003e\u003cp\u003e大家有兴趣的可以持续关注我的，我会不定期经常回答有关职场方面的经验，\u003c/p\u003e\u003ca data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://www.zhihu.com/people/09cf6d2c520c8bb50356381567933de1\" class=\"internal\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"visible\"\u003ezhihu.com/people/09cf6d\u003c/span\u003e\u003cspan class=\"invisible\"\u003e2c520c8bb50356381567933de1\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cp\u003e\u003cb\u003e如果大家还有什么想了解到 请在评论下方评论 我会根据大家的需求持续更新 的\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e希望对大家有用\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e补充说明下：\u003c/b\u003e在面试中如果面试者对你有\u003cb\u003e蔑视，轻视\u003c/b\u003e的话，请不要报有希望，因为即使你成功了，你会舒服吗？面试时是双向选择，又不是只有你一家公司，你对待别人的态度不好，还希望别人给你面子，请问你是谁？？？\u003c/p\u003e\u003cp\u003e\u003cb\u003e大家加油，\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e相信看过之后你会发现我是个有故事的人，喝酒的话一起！！\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e更新，\u003c/b\u003e\u003c/p\u003e\u003cp\u003e应届生没工作经验该如何书写简历，有兴趣的可以看看\u003c/p\u003e\u003cp\u003e如何做一份优秀的简历？ - 曾经的你的回答 - 知乎 \u003ca href=\"https://www.zhihu.com/question/19766230/answer/719675766\" class=\"internal\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"visible\"\u003ezhihu.com/question/1976\u003c/span\u003e\u003cspan class=\"invisible\"\u003e6230/answer/719675766\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e应届生没有工作经历，简历应该怎么写？ - 曾经的你的回答 - 知乎 \u003ca href=\"https://www.zhihu.com/question/293138588/answer/715393912\" class=\"internal\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"visible\"\u003ezhihu.com/question/2931\u003c/span\u003e\u003cspan class=\"invisible\"\u003e38588/answer/715393912\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003chr/\u003e\u003cp\u003e\u003cb\u003e看了没有人在评论下方说出自己有哪些想了解的\u003c/b\u003e\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-2222643dec42201c0b22197fe3fc019a_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"1920\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic1.zhimg.com/v2-aec8db7650ac732fad1b70eab50a0dc4_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-2222643dec42201c0b22197fe3fc019a_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1080\u0026#39; height=\u0026#39;1920\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"1080\" data-rawheight=\"1920\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic1.zhimg.com/v2-aec8db7650ac732fad1b70eab50a0dc4_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-2222643dec42201c0b22197fe3fc019a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-2222643dec42201c0b22197fe3fc019a_b.jpg\"/\u003e\u003c/figure\u003e\u003cp\u003e\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 1,
+          "thumbnails": [
+            {
+              "data_url": "",
+              "url": "https://pic1.zhimg.com/80/v2-a443bbae678db7b34dad7a75121349d3_bh.jpg",
+              "type": "image"
+            }
+          ],
+          "type": "thumbnail_info"
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "question": {
+          "id": "267849861",
+          "type": "question",
+          "name": "怎么判断自己\u003cem\u003e面试\u003c/em\u003e是不是凉了？",
+          "url": "https://api.zhihu.com/questions/267849861"
+        },
+        "author": {
+          "id": "09cf6d2c520c8bb50356381567933de1",
+          "url_token": "wxbfcc904a202fac2e",
+          "name": "曾经的你",
+          "headline": "只谈职场，不谈风月，公众号:小刀职场论",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/09cf6d2c520c8bb50356381567933de1",
+          "type": "people",
+          "avatar_url": "https://pic3.zhimg.com/50/v2-067363bdb472810f079ca0b9fc4296dd_s.jpg",
+          "badge": []
+        },
+        "flag": null,
+        "attached_info_bytes": "Oo0BCgtwbGFjZWhvbGRlchIgZTQ5M2I2YjI5ZmE3ZDQ0OWIxY2NjM2JiZGRlZWM3ODkYBCIJMTU5NTAwMjk2Kgk3MTE4Nzk4OTcyCDIxNTczMTk3OgkyNjc4NDk4NjFKBumdouivlVAAWAFgAZgBAKABC6gBALABAbgBANABvIT95wXYAbQE4AEtgAIAuAIA"
+      },
+      "index": 11
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "我见过\u003cem\u003e面试\u003c/em\u003e的时候刚好是下午茶时间，办公室弥漫炸鸡和奶茶的香味，hr笑咪咪地问，你吃了吗？ 那年我还年轻，脸皮很薄，虽然中午已经吃了好几个红烧狮子头，但还是兴奋搓搓手",
+        "title": "如何看待公司不主动给\u003cem\u003e面试\u003c/em\u003e者倒水喝？"
+      },
+      "object": {
+        "id": "512013813",
+        "type": "answer",
+        "excerpt": "我见过\u003cem\u003e面试\u003c/em\u003e的时候刚好是下午茶时间，办公室弥漫炸鸡和奶茶的香味，hr笑咪咪地问，你吃了吗？ 那年我还年轻，脸皮很薄，虽然中午已经吃了好几个红烧狮子头，但还是兴奋搓搓手",
+        "url": "https://api.zhihu.com/answers/512013813",
+        "voteup_count": 7594,
+        "comment_count": 402,
+        "created_time": 1539683546,
+        "updated_time": 1539683594,
+        "content": "\u003cp\u003e我见过面试的时候刚好是下午茶时间，办公室弥漫炸鸡和奶茶的香味，hr笑咪咪地问，你吃了吗？\u003c/p\u003e\u003cp\u003e那年我还年轻，脸皮很薄，虽然中午已经吃了好几个红烧狮子头，但还是兴奋搓搓手，客气着说“没吃，没吃。”\u003c/p\u003e\u003cp\u003e最后我和设计部的四五个小姑娘一起啃鸡腿，啃得满嘴儿油。我一个人干光了六只鸡翅，五只鸡腿，顺便还吃了几个蛋挞当最后的压轴小甜品。\u003c/p\u003e\u003cp\u003e后来我就在那广告公司上班了...... 因为我另外面试的几家广告公司，办公室里沉浸着腌菜味和泡面味。\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info"
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "question": {
+          "id": "295572212",
+          "type": "question",
+          "name": "如何看待公司不主动给\u003cem\u003e面试\u003c/em\u003e者倒水喝？",
+          "url": "https://api.zhihu.com/questions/295572212"
+        },
+        "author": {
+          "id": "a9ba18244a6472ddd6d13d47d0f5a2e9",
+          "url_token": "pan-shen-jing",
+          "name": "潘神经",
+          "headline": "tuyo sera y tuyo sera......",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/a9ba18244a6472ddd6d13d47d0f5a2e9",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/v2-a28c4edcc2efd25012cb4b35b5a6cbfc_s.jpg",
+          "badge": []
+        },
+        "flag": null,
+        "attached_info_bytes": "Oo4BCgtwbGFjZWhvbGRlchIgZTQ5M2I2YjI5ZmE3ZDQ0OWIxY2NjM2JiZGRlZWM3ODkYBCIJMTIzMTYzNjgwKgk1MTIwMTM4MTMyCDI3OTU5NzAwOgkyOTU1NzIyMTJKBumdouivlVAAWAFgAZgBAKABDKgBALABAbgBANAB2umW3gXYAao74AGSA4ACALgCAA=="
+      },
+      "index": 12
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "所有招人都是自己\u003cem\u003e面试\u003c/em\u003e。 有人来\u003cem\u003e面试\u003c/em\u003e，坐下来笑一笑，第一句话就是：有没有带简历过来？ 这句话不是疑问句，而是礼貌的表明我要看你的简历。 在我这么多年\u003cem\u003e面试\u003c/em\u003e过的这么多人中",
+        "title": "\u003cem\u003e面试\u003c/em\u003e要带简历吗？"
+      },
+      "object": {
+        "id": "88111804",
+        "title": "\u003cem\u003e面试\u003c/em\u003e要带简历吗？",
+        "type": "article",
+        "url": "https://api.zhihu.com/articles/88111804",
+        "excerpt": "所有招人都是自己\u003cem\u003e面试\u003c/em\u003e。 有人来\u003cem\u003e面试\u003c/em\u003e，坐下来笑一笑，第一句话就是：有没有带简历过来？ 这句话不是疑问句，而是礼貌的表明我要看你的简历。 在我这么多年\u003cem\u003e面试\u003c/em\u003e过的这么多人中",
+        "voteup_count": 546,
+        "comment_count": 165,
+        "created_time": 1571813690,
+        "updated_time": 1572329751,
+        "content": "\u003cp\u003e我做管理已经七年了，所有招人都是自己面试。\u003c/p\u003e\u003cp\u003e有人来面试，坐下来笑一笑，\u003cb\u003e第一句话就是：有没有带简历过来\u003c/b\u003e？\u003c/p\u003e\u003cp\u003e这句话不是疑问句，而是礼貌的表明我要看你的简历。\u003c/p\u003e\u003cp\u003e在我这么多年面试过的这么多人中，九成九的人都会把简历拿给我。\u003c/p\u003e\u003cp\u003e剩下极少数没带的，也会很不好意思的道歉。\u003c/p\u003e\u003cp\u003e没见过人理直气壮的说，我觉得简历是你们公司的事，不是我的义务。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e曾经在换行业的时候，入了几个公司的坑，不断找工作，折腾了一两年。\u003c/p\u003e\u003cp\u003e所以面试过不少公司，我还特地查看了一下记录，有213家，外贸领域差不多所有类型公司都见识过了。\u003c/p\u003e\u003cp\u003e你要问我对谁最不满意，确实无疑是某些HR了。\u003c/p\u003e\u003cp\u003e只要通过HR，见到老板，至少能聊一个小时，互相加微信，这次面试不成，交个朋友，也有下次合作的机会。\u003c/p\u003e\u003cp\u003e我特别喜欢那种老板（用人部门）直接面试的公司，简单方便，既高效又有诚意。\u003c/p\u003e\u003cp\u003e所以后来我也从来不用HR.\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e大家讲的各种填表，我也真是腻烦的要死，完全是浪费时间的无用功。\u003c/p\u003e\u003cp\u003e\u003cb\u003e但我是去求职啊，人家要求什么我就做什么呗。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e最多损失十几分钟时间罢了。\u003c/p\u003e\u003cp\u003e但我心里明白，这是一种例行公事罢了，只要见到老板，录不录取跟HR没啥关系。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e有些HR看求职的人就像看贼一样。\u003c/p\u003e\u003cp\u003e你们老板打电话给我，叫我过来面试销售总监，你一脸不耐烦的一努嘴，喏，拿这张表去填写，填完交过来。\u003c/p\u003e\u003cp\u003e我怎么办？\u003c/p\u003e\u003cp\u003e我当然是\u003cb\u003e陪着笑脸说，好，没问题，马上。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e这点委屈都过不去，见了老板他也看不起我。\u003c/b\u003e\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e有些HR在面试的时候像跟乞丐说话，一副高高在上的样子，颐指气使，目中无人。\u003c/p\u003e\u003cp\u003e你说我有没有情绪，有没有意见？\u003c/p\u003e\u003cp\u003e当然有！很有意见！\u003c/p\u003e\u003cp\u003e我怎么办呢？\u003c/p\u003e\u003cp\u003e在谈话中先附和，先倾听，先谦虚，先赞同，再慢慢的表明自己的能力啊，包括经历，项目经验，才干，特长，优势。\u003c/p\u003e\u003cp\u003e\u003cb\u003e慢慢让他认同你，甚至尊重你。\u003c/b\u003e\u003c/p\u003e\u003cp\u003e同学们，你以后面对客户的时候也是同样熟悉的场景啊。\u003c/p\u003e\u003cp\u003e难道我还能跟客户甩脸，你爱买不买，滚？\u003c/p\u003e\u003cp\u003e你要吃饭的。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e当然，大多数HR都是挺好的，有些HR还特别有气质，特别贴心。\u003c/p\u003e\u003cp\u003e但是某些HR的态度给人的印象实在太深了，进而对整个HR人群抹了黑。\u003c/p\u003e\u003cp\u003e即使是四大的HR，那也是HR啊，牛的是公司，并不是你啊。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e好吧，写到这里，我突然理解了这么多回复和评论为什么戾气那么重了，我一不小心离了点题，就写了这么一大堆抱怨的话。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e回到之前的问题，\u003cb\u003e简历还是要带的\u003c/b\u003e。\u003c/p\u003e\u003cp\u003e你不能因为之前面试的HR态度不好，就对下一家待面试公司先有成见。\u003c/p\u003e\u003cp\u003e吃亏的是谁，可想而知。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e也许下一家公司不用你带简历，你带了备着，\u003cb\u003e完全没有任何损失\u003c/b\u003e。\u003c/p\u003e\u003cp\u003e如果下一家公司要你要简历，你没带，那一定多少会给你这次面试\u003cb\u003e扣分\u003c/b\u003e。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e如果你说国外都不带，\u003c/p\u003e\u003cp\u003e那么欢迎你回来中国。\u003c/p\u003e\u003cp\u003e如果你认为让你过来面试就一定对你的情况了如指掌，\u003c/p\u003e\u003cp\u003e那么欢迎你来到真实世界。\u003c/p\u003e\u003cp\u003e如果你说你以前面试过的公司不用简历，我只能说你面试的太少。\u003c/p\u003e\u003cp\u003e如果你说准备简历是公司的义务，并以此判断一个公司的好坏。我觉得挺好，礼貌的告别就是，不用增加沟通成本。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e出行带伞，可能下雨可能不下。\u003c/p\u003e\u003cp\u003e如果认为上天一定会因为你而不下雨，那是傲慢和无知。\u003c/p\u003e\u003cp\u003e如果认为上次没下雨，这次就不带，那是愚蠢和懒惰。\u003c/p\u003e\u003cp\u003e呆在室内的人，请不要告诉走在外面的人不需要带伞。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e对了，所有过来面试的人，我都会跟他讲讲我对这次面试的看法，你有哪些回答不够恰当，我可能不在意，其他公司的人未必。\u003c/p\u003e\u003cp\u003e然后我会给他一些\u003cb\u003e简历上的建议\u003c/b\u003e，这部分可以不要，那部分要加重一些，某些地方要着重写。\u003c/p\u003e\u003cp\u003e通常\u003cb\u003e这才是他们感觉收获最大的地方\u003c/b\u003e。\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 1,
+          "thumbnails": [
+            {
+              "data_url": "",
+              "url": "https://pic1.zhimg.com/80/v2-3022d275d2d7a384b29af81f12437e6b_r.jpg",
+              "type": "image"
+            }
+          ],
+          "type": ""
+        },
+        "author": {
+          "id": "e38782b70b20e4ad44453e6a9f347f3b",
+          "url_token": "wang-zhuozhi",
+          "name": "王拙之",
+          "headline": "中年大叔，阅读狂，十年销售，七年管理，外贸行业，跨境电商。",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/e38782b70b20e4ad44453e6a9f347f3b",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/11ef5ed07_s.jpg",
+          "badge": []
+        },
+        "voting": 0,
+        "relationship": {
+          "is_voted": false,
+          "is_author": false
+        },
+        "flag": null,
+        "attached_info_bytes": "OngKC3BsYWNlaG9sZGVyEiBlNDkzYjZiMjlmYTdkNDQ5YjFjY2MzYmJkZGVlYzc4ORgHIgkxMDc3MDk1NjUqCDg4MTExODA0SgbpnaLor5VQAFgBYAGYAQCgAQ2oAQCwAQG4AQDQAbryv+0F2AGiBOABpQGAAgC4AgA="
+      },
+      "index": 13
+    },
+    {
+      "type": "relevant_query",
+      "query_list": [
+        {
+          "query": "面试自我介绍",
+          "attached_info_bytes": "Oj8SIGU0OTNiNmIyOWZhN2Q0NDliMWNjYzNiYmRkZWVjNzg5SgbpnaLor5VQAFgBYAGgAQ6oAQCwAQWAAgC4AgA="
+        },
+        {
+          "query": "面试技巧",
+          "attached_info_bytes": "Oj8SIGU0OTNiNmIyOWZhN2Q0NDliMWNjYzNiYmRkZWVjNzg5SgbpnaLor5VQAFgBYAGgAQ6oAQGwAQWAAgC4AgA="
+        },
+        {
+          "query": "面试问题",
+          "attached_info_bytes": "Oj8SIGU0OTNiNmIyOWZhN2Q0NDliMWNjYzNiYmRkZWVjNzg5SgbpnaLor5VQAFgBYAGgAQ6oAQKwAQWAAgC4AgA="
+        },
+        {
+          "query": "面试着装",
+          "attached_info_bytes": "Oj8SIGU0OTNiNmIyOWZhN2Q0NDliMWNjYzNiYmRkZWVjNzg5SgbpnaLor5VQAFgBYAGgAQ6oAQOwAQWAAgC4AgA="
+        },
+        {
+          "query": "事业单位面试",
+          "attached_info_bytes": "Oj8SIGU0OTNiNmIyOWZhN2Q0NDliMWNjYzNiYmRkZWVjNzg5SgbpnaLor5VQAFgBYAGgAQ6oAQSwAQWAAgC4AgA="
+        },
+        {
+          "query": "教师资格证面试",
+          "attached_info_bytes": "Oj8SIGU0OTNiNmIyOWZhN2Q0NDliMWNjYzNiYmRkZWVjNzg5SgbpnaLor5VQAFgBYAGgAQ6oAQWwAQWAAgC4AgA="
+        }
+      ],
+      "attached_info_bytes": "OjwSIGU0OTNiNmIyOWZhN2Q0NDliMWNjYzNiYmRkZWVjNzg5SgbpnaLor5VQAFgBYAGgAQ6wAQWAAgC4AgA="
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "上午联系的就有第三个公司，我们约了当天下午\u003cem\u003e面试\u003c/em\u003e！ 下午2点准时来到公司，先笔试题答了一小时。接着就是技术\u003cem\u003e面试\u003c/em\u003e一小时，\u003cem\u003e面试\u003c/em\u003e过程主要问的过去的技术经历，和项目经验。再接着就是人事聊了1个多小时",
+        "title": "\u003cem\u003e面试\u003c/em\u003e想拿 10K，HR 说你只值 7K，该怎样回答或者反驳？"
+      },
+      "object": {
+        "id": "873253523",
+        "type": "answer",
+        "excerpt": "上午联系的就有第三个公司，我们约了当天下午\u003cem\u003e面试\u003c/em\u003e！ 下午2点准时来到公司，先笔试题答了一小时。接着就是技术\u003cem\u003e面试\u003c/em\u003e一小时，\u003cem\u003e面试\u003c/em\u003e过程主要问的过去的技术经历，和项目经验。再接着就是人事聊了1个多小时",
+        "url": "https://api.zhihu.com/answers/873253523",
+        "voteup_count": 10890,
+        "comment_count": 801,
+        "created_time": 1572265522,
+        "updated_time": 1577184956,
+        "content": "\u003cp\u003e我强答一波！\u003c/p\u003e\u003cp\u003e        至于你自己值10k，还是值7k，又或者值12k。不一定完全取决于你自己的能力，能力固然是一方面，但不同的人到了不同的平台，自己的价值体现也是不同的。\u003c/p\u003e\u003cp\u003e        首先面试前应该多找几家公司验证一下自己的实力，明确知道自己到底值多少钱，心里有谱了，不管去哪里面试都相对的心有成足。\u003c/p\u003e\u003cp\u003e        你既然要了10k，那想必你自己已经觉得自己值10k了，公司既然只能给你7k，那说明你在这家公司能体现的价值就是7，要么公司有你想要的东西，比如技术，福利，平台等，那7k其实也可以接受；如果和普通公司一样，7k并没有任何吸引力，那你就不用考虑；如果是人事当你面说：你只值7k，就冲这话就可以直接不考虑了，就算觉得你只能给7k，也不能这么说，太伤人了。\u003c/p\u003e\u003cp\u003e        说下我的经历，看看是否对你有帮助。\u003c/p\u003e\u003cp\u003e        曾经面过一家公司（职业生涯准备寻求的第二家公司）我期望是10k，经历完机试、笔试和技术面试之后，hr当面给我的结果是：我在他们公司技术属于中级偏下水平，而中级薪资是6-8k。问我6k能接受吗？我自认为技术还可以，出于礼貌我回答说那应该是面试没回答好吧！6k就不接受了，以后有机会再合作。\u003c/p\u003e\u003cp\u003e        hr又说，他们现在很缺人，她权限范围内可以最多给我加到7k，我说不用了，起身准备走人。\u003c/p\u003e\u003cp\u003e        结果她让我等等，说再去请示下领导，回来又说领导意思可以给到8k，工资倒挂，因为缺人的关系给我开了绿灯，我还是没同意，出了公司！\u003c/p\u003e\u003cp\u003e        一小时后又打电话说最近太缺人8.5可以考虑吗？因为我在坐公交车，回答说现在不方便！\u003c/p\u003e\u003cp\u003e        又隔了半小时，来电说她各种争取，可以到9k，这是她最大权限了！\u003c/p\u003e\u003cp\u003e        我心里就膈应了，你当时如果说9k可以，我或许一口就答应了，因为面试太麻烦了，又是笔试，又是上机的，外面还下雨，太折腾了！你这像挤牙膏一样。\u003c/p\u003e\u003cp\u003e        再说了你们公司中级是6-8，我这都中级偏下了还能给到9，难道我转身就变高级了？\u003c/p\u003e\u003cp\u003e        于是我果断拒绝了，又面了一家新公司。面完我要求还是10k，结果新公司的hr给我说，10k有点少，我帮你写成11k，下周一来上班怎么样？本来被上一个面试搞的心情就不好，这下好像中奖了一般，一口答应了，周一就高高兴兴的来新公司上班了！\u003c/p\u003e\u003cp\u003e===========华丽的分割线===========\u003c/p\u003e\u003cp\u003e短短一周点赞破4k了。那我再更一波。\u003c/p\u003e\u003cp\u003e        有不少同学评论或私信，都提到第二个公司从期望的10，直接能给到11，说这是段子，不可能有这种公司。这只能说明是你没见过罢了。\u003c/p\u003e\u003cp\u003e      下面说下这个公司的情况。\u003c/p\u003e\u003cp\u003e      我在第二家公司一共待了2年，一共涨薪2次，入职时间为9月底。第一次到过年时候涨1k，第二次也是过年涨了2k，离职的时候14k。因为个人原因觉得公司技术跟不上个人发展，短短2年时间，我觉得自己成长很大，公司是做互联网的，技术比较新，在公司很多东西都可以自己尝试，自己做主，所以学习和成长比较大。我感觉这两年是我工作这么久进步最大的时候，走的时候还是有点舍不得。\u003c/p\u003e\u003cp\u003e再说下第三个公司！\u003c/p\u003e\u003cp\u003e        我网上挂了简历一上午，就有很多公司联系我，大多都是中软和软通的外包，不是说外包不好，只是我个人不喜欢外包公司。上午联系的就有第三个公司，我们约了当天下午面试！\u003c/p\u003e\u003cp\u003e        下午2点准时来到公司，先笔试题答了一小时。接着就是技术面试一小时，面试过程主要问的过去的技术经历，和项目经验。再接着就是人事聊了1个多小时，中途问过人事，一般套路不是回去等通知么？答我说相互彼此了解，万一面试通过你来入职，发现和你想的不一样，又走了，不是浪费大家时间么！问了我期望薪资，我说我现在14，我对期望不要求，如果公司好，降薪都行，公司不好给再多都不来。\u003c/p\u003e\u003cp\u003e        聊完我出了公司门，十多分钟后人事加了我微信，给我说面试应该没问题，定岗的薪资她预估保守16，后面看公司具体定薪，问我愿意不，我说对公司感觉还好！offer得大概3天才能批下来，她告诉我先别提离职，等下来了再提，巴拉巴拉。。\u003c/p\u003e\u003cp\u003e        两天后打我电话，说offer批了，定薪18，她努力争取了云云云。我接了这个offer，现在我在这家公司已经干了2年了多一点了。\u003c/p\u003e\u003cp\u003e===========华丽的分割线==========\u003c/p\u003e\u003cp\u003e关于谈薪：我觉得还是看公司态度，和自己实力。\u003c/p\u003e\u003cp\u003e        如果心虚，要10给7，先接了，再继续找，offer3-5家对比一个相对比较好的在去。\u003c/p\u003e\u003cp\u003e        如果底气硬，就可以直接拒了，给不起的要么是故意压你，要么是工资薪酬就这么多！去了靠每年涨薪，基本不可能的，除非你非常厉害，不过这种概率还是大大的低。\u003c/p\u003e\u003cp\u003e关于简历：我觉得还是比较重要！\u003c/p\u003e\u003cp\u003e        一般我都是自己带着纸质简历去公司面试的。可能有人说公司不是有电子的吗？干嘛要自己带，其实吧，公司都是从招聘网站上下载的，那个格式呀真是惨不忍睹。\u003c/p\u003e\u003cp\u003e      好好的一份工作经验非得给搞的面目全非，给自己的实力印象分大打折扣，所以个人还是建议自己制作一份简历带上为好。\u003c/p\u003e\u003cp\u003e      不会做简历的，可以点击下面链接     \u003ca href=\"https://link.zhihu.com/?target=https%3A//datayi.cn/w/1P6jpLQP\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"visible\"\u003edatayi.cn/w/1P6jpLQP\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e或自己搜索《超级简历》，功能比较强大，简历排版，自动推荐工作还是蛮靠谱。\u003c/p\u003e\u003cp\u003e关于招聘网站：\u003c/p\u003e\u003cp\u003e      这个就比较多了，智联，前程无忧，boss直聘，猎聘网等等都可以看看。\u003c/p\u003e\u003cp\u003e关于答主：\u003c/p\u003e\u003cp\u003e      我是学文科的，普通二本院校，毕业转行搞的java开发，工作地点在西安，伪一线城市，目前有车有房有媳妇有娃。\u003c/p\u003e\u003cp\u003e关于java学习：\u003c/p\u003e\u003cp\u003e        有不少同学私信想转行，或者想加强学习，我这里可以推荐看看哔哩哔哩网站，搜索《代码基基》和《尚硅谷》都是比较好的视频，没有广告，技术很全面，建议大家看看。\u003c/p\u003e\u003cp\u003e        有想加强学习的，建议可以自己做个小项目，挂到阿里云或者腾讯云上，自己做开发做维护做运营，当你有小众会员的时候，你自己学习的动力或许会更大。\u003c/p\u003e\u003cp\u003e关于质疑：\u003c/p\u003e\u003cp\u003e        有很多人留言和私信质疑这是段子，你认为是段子就是段子吧，你开心就好，哈哈哈哈哈哈。\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info"
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false
+        },
+        "question": {
+          "id": "282880854",
+          "type": "question",
+          "name": "\u003cem\u003e面试\u003c/em\u003e想拿 10K，HR 说你只值 7K，该怎样回答或者反驳？",
+          "url": "https://api.zhihu.com/questions/282880854"
+        },
+        "author": {
+          "id": "588b98d68c95673324db42f6c44cd075",
+          "url_token": "kao-la-14-60-13",
+          "name": "梦里花",
+          "headline": "",
+          "gender": -1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/588b98d68c95673324db42f6c44cd075",
+          "type": "people",
+          "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_s.jpg",
+          "badge": []
+        },
+        "flag": null,
+        "attached_info_bytes": "Oo4BCgtwbGFjZWhvbGRlchIgZTQ5M2I2YjI5ZmE3ZDQ0OWIxY2NjM2JiZGRlZWM3ODkYBCIJMTg4ODQwMTczKgk4NzMyNTM1MjMyCDI1MTM4NjQ3OgkyODI4ODA4NTRKBumdouivlVAAWAFgAZgBAKABD6gBALABAbgBANABsrzb7QXYAYpV4AGhBoACALgCAA=="
+      },
+      "index": 15
+    }
+  ],
+  "related_search_result": [],
+  "search_action_info": {
+    "attached_info_bytes": "OjYSIGU0OTNiNmIyOWZhN2Q0NDliMWNjYzNiYmRkZWVjNzg5SgbpnaLor5VQAFgBYAGAAgC4AgA=",
+    "lc_idx": 16,
+    "search_hash_id": "e493b6b29fa7d449b1ccc3bbddeec789",
+    "isfeed": false
+  },
+  "is_brand_word": false
+}
